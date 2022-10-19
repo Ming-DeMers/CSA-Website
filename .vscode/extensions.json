@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "dzhavat.css-flexbox-cheatsheet",
+    "pucelle.vscode-css-navigation",
+    "rax.vscode-flexbox-picker",
+    "ecmel.vscode-html-css",
+    "kisstkondoros.vscode-gutter-preview",
+    "ms-vscode.live-server",
+    "yzhang.markdown-all-in-one",
+    "bierner.markdown-checkbox",
+    "davidanson.vscode-markdownlint",
+    "jgclark.vscode-todo-highlight",
+    "koppt.vscode-view-in-browser",
+    "CelianRiboulet.webvalidator"
+  ]
+}
