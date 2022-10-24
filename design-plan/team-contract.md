@@ -10,14 +10,18 @@ Your team contract should probably include these elements. Feel free to remove o
 
 1. To what goals do we all commit?
 
-    TODO: discuss and document here
+    - Produce a website that meets the requirements and best represents our skills and  effort
+    - Create a website that fulfills the clients specific needs satisfactorily
+    - Create a website that completes the users needs and requirements
+    - Create a website that is visually pleasing, appropriately accessible, and reactive to users needs
 
 2. What are our "ground rules"? (Don't make an exhaustive list—stick with just a few.)
 
     **Tip:** Interrupting another person can make them feel like their option isn't valued. Consider a rule about interrupting.
-
-    TODO: discuss and document here
-
+    - Respect each other's time and ideas. Avoid interrupting, desconstructive communication, and untimely work.
+    - Produce work that is on time and functional
+    - Members put in equal effort and similarly-sized content. 
+  
 3. By what means and how frequently will we meet or communicate?
 
     TODO: discuss and document here
