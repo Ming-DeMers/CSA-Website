@@ -88,6 +88,7 @@ TODO: tell us about the website you intend to design and build
 > Explain why the website you will create for your client isn't too small and isn't too big.
 > Explain why you think it's the right size for this project.
 
+We intend to build a redesign of the current CSA website. Each member will be responsible for creating one page, as well as an extra duty that spans the entire website, such as format consistency. We hope this a is a manageable workload for all members that will result in a quality website.
 
 
 ## Plan/Schedule (Milestone 1)
@@ -97,8 +98,7 @@ TODO: tell us about the website you intend to design and build
 > Your plan should also include how and when you will assemble/create the sit's content.
 > **Tip:** Your team should plan to work ahead. This project really isn't feasible to complete the night before a deadline.
 
-TODO: your team's plan
-
+Next up, we plan to find members of CSA and non-members to interview for user interviews. By the weekend, we hope to have interviews written so we may know whom to aim for. Those who are not involved with the interviewing will begin site construction: filling out content and creating an initial theme with little styling.
 
 ## Understanding Users (Milestone 2)
 
