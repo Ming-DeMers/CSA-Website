@@ -24,37 +24,40 @@ Your team contract should probably include these elements. Feel free to remove o
   
 3. By what means and how frequently will we meet or communicate?
 
-    TODO: discuss and document here
+    We will communicate in our established groupchat. We plan to meet every Monday evening to ensure progress and that our project is on time.
 
 4. How will we communicate and work with our client?
 
-    TODO: discuss and document here
+    Tiffany Li, from CSA, is our correspondent for CSA. We will communicate with her regularly via text messaging.
 
 5. What roles will we create? Include a description of exactly what each role is responsible for. (**No "coder" or "designer" roles are permitted;** everyone must design and code.)
 
     **Tip:** It's often helpful to think of **responsibilities** rather than roles here.
 
-    TODO: discuss and document here
+    Ming: home page; organization
+    Emily: Events; consistency of content and design.
+    Xianyi: Membership; consistent format and page correctness
+    Sabrina: Image gallery; spell check and ensure equal contribution
+    Winston: About page; aesthetics; handshake and team spirit leader.
+    
 
 6. How will we hold ourselves and one another accountable? What (exactly) will we say to a team member who appears not to be contributing equally? To a team member who fails to deliver what was promised?
 
-    TODO: discuss and document here
+    Each member will do their very best to complete their role in a timely manner. Should they fall behind, other members are willing to pick up their slack. If a member isn't acting in good faith, then we'll have a conversation with them to address the issues. If the problem persists, we will bring it to a TA or course instructor.
 
 7. What do we do when we disagree? What approach to conflict to we all agree to uphold?
 
-    TODO: discuss and document here
+    Everyone has valid sentiment and ideas. We will ensure that everyone has a say and that a middle ground can be reached to the best of our ability. At the very least, we are willing to have a vote to make a choice.
 
 8. What are our procedures for re-visiting this contract?
 
-    TODO: discuss and document here
+    When we encounter unforeseen problems and don't know how to deal with it, or encounter a possibility outlined but isn't being resolved, we agree to revisit this contract and suggest different terms.
 
 9. What else do we want to include in this contract? Maybe you team needs a _fun_ clause...
 
     **Tip:** Not everything in life is about work. Sometimes it is important to celebrate too. Consider grabbing a coffee or ice cream at the completion of your project to celebrate!
 
-    TODO: discuss and document here
-
-TODO: what else belongs in your team's contract?
+    This team will have FUN ...
 
 ## Using your Contract
 
