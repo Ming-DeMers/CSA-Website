@@ -17,8 +17,7 @@ Be clear and concise in your writing. Bullets points are encouraged.
 > Tell us about your client. Who is your client?
 > Explain why your client meets the client rules in the project requirements.
 
-TODO: who is your client?
-
+Our client the Chinese Student Associate (CSA). Specifically, we'll be working with Arthur and Tiffany, members of the e-board. Our client is a student organization requiring a static website redesign.
 
 ### Client Questionnaire (Milestone 1)
 > Develop a client questionnaire to learn more about your client and their goals.
@@ -89,7 +88,6 @@ TODO: tell us about the website you intend to design and build
 > Explain why the website you will create for your client isn't too small and isn't too big.
 > Explain why you think it's the right size for this project.
 
-TODO: explain how your proposed website is the right "size" for this project: not too big, not too small.
 
 
 ## Plan/Schedule (Milestone 1)
