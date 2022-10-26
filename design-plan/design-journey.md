@@ -25,35 +25,37 @@ Our client the Chinese Student Associate (CSA). Specifically, we'll be working w
 
 1. Describe your organization and its purpose.
 
-    TODO: take notes of your client's response
+ CSA is a student-run social and cultural organization that seeks to provide a community to students interested in Chinese and Chinese American culture. They have a social week where interested students can meet current members and join their fam (family), and they also host multiple cultural and social events throughout the year (Mid autumn festival, Midnight Dimsum, etc)
 
 2. What makes your organization and its services special or unique?
 
-    TODO: take notes of your client's response
+The organization is unique because they offer a community to anyone who is interested in both Chinese and Chinese American culture, and the club isn’t limited to just Chinese members. They are also the organization that hosts the largest annual Mid-autumn festival event at Cornell on Ho Plaza, and their events like Midnight Dim Sum are also unique. 
 
 3. Why are you looking for a new website or updating your existing site?
 
-    TODO: take notes of your client's response
+ The website could look a bit more visually pleasing.
 
 4. Who do you want to visit your site? Who do you believe is your website's intended audience?
+   
+They want people who are interested in the club and its events to check out the website. This year, they've decided to put important links to the club’s events (sign ups, etc) on their website, so intended audience is members but also anyone else interested in CSA events or joining CSA.  
 
-    TODO: take notes of your client's response
+1. When visiting your site, what actions do you want your visitors to take?
 
-5. When visiting your site, what actions do you want your visitors to take?
+ Visitors typically visit the website to join the newsletter or find links to important sign-up forms and other resources (E-board applications, etc). They also want visitors to check out the gallery so they can see what events are like
 
-    TODO: take notes of your client's response
+2. What are your goals for this site?
 
-6. What are your goals for this site?
+For visitors to learn more about CSA as an organization and want to join the club
 
-    TODO: take notes of your client's response
+4. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
 
-7. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
+Would like to stick with a red theme (not bright red, the current red is fine). Faving faces on the website is important as well.
 
-    TODO: take notes of your client's response
 
-8. What are your three favorite competitors or similar organizations' websites? Why?
 
-    TODO: take notes of your client's response
+3. What are your three favorite competitors or similar organizations' websites? Why?
+
+Don't have any favorites, but  can check out usc’s casa website and Harvard’s c
 
 
 ### First Client Meeting Minutes/Notes (Milestone 1)
