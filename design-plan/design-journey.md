@@ -79,7 +79,7 @@ Notes: CSA is a widely known cultural organization on Cornell's campus (and othe
 ![image info](./about.png)
 ![image info](./nav.png)
 
-TODO: tell us about the website you intend to design and build
+The website we intend to build will keep the current color theme but will include more interactivity. We will also make the layout consistent for all the pages. For example, the membership page has a side menu bar while the other pages do not. One of the main goals of the users who visit this website is to learn about the events that CSA hosts. We will create an "Events" page that includes photos and information about the events so that is easier for the users to find this information.
 
 
 ### Client Goals (Milestone 1)
