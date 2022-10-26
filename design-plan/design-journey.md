@@ -29,15 +29,15 @@ Our client the Chinese Student Associate (CSA). Specifically, we'll be working w
 
 2. What makes your organization and its services special or unique?
 
-The organization is unique because they offer a community to anyone who is interested in both Chinese and Chinese American culture, and the club isn’t limited to just Chinese members. They are also the organization that hosts the largest annual Mid-autumn festival event at Cornell on Ho Plaza, and their events like Midnight Dim Sum are also unique. 
+The organization is unique because they offer a community to anyone who is interested in both Chinese and Chinese American culture, and the club isn’t limited to just Chinese members. They are also the organization that hosts the largest annual Mid-autumn festival event at Cornell on Ho Plaza, and their events like Midnight Dim Sum are also unique.
 
 3. Why are you looking for a new website or updating your existing site?
 
  The website could look a bit more visually pleasing.
 
 4. Who do you want to visit your site? Who do you believe is your website's intended audience?
-   
-They want people who are interested in the club and its events to check out the website. This year, they've decided to put important links to the club’s events (sign ups, etc) on their website, so intended audience is members but also anyone else interested in CSA events or joining CSA.  
+
+They want people who are interested in the club and its events to check out the website. This year, they've decided to put important links to the club’s events (sign ups, etc) on their website, so intended audience is members but also anyone else interested in CSA events or joining CSA.
 
 1. When visiting your site, what actions do you want your visitors to take?
 
@@ -55,13 +55,14 @@ Would like to stick with a red theme (not bright red, the current red is fine). 
 
 3. What are your three favorite competitors or similar organizations' websites? Why?
 
-Don't have any favorites, but  can check out usc’s casa website and Harvard’s c
+Don't have any favorites, but can check out usc’s casa website and Harvard’s c
 
 
 ### First Client Meeting Minutes/Notes (Milestone 1)
 > Include your notes/minutes from your first meeting with your client.
 
-TODO: notes/minutes from your first client meeting
+Time: ~10 minutes
+Notes: CSA is a widely known cultural organization on Cornell's campus (and other schools). The org is not limited to just Chinese students; anyone can join as long as they are able to meet the social week requirements and fill out the form. The client currently wants to make the website more visually appealing while keeping the current color theme and hopes to allow the audience who visit their site (students interested in joining the club and current students already in the club) to help them find information regarding club events and how to sign up. In addition, the website provides the link to the newsletter along with sign-ups for the events; this is important information that the audience typically looks for. The client is looking to revamp their website to udpate its aesthetics while keeping the content that already exists on the site.
 
 
 ### Client Website (Milestone 1)
