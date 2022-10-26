@@ -71,6 +71,14 @@ Notes: CSA is a widely known cultural organization on Cornell's campus (and othe
 > Note: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** (FireFox makes it easy to take a full screenshot of a page from the context menu (right click).)
 > If you are redesigning an existing site, tell us how you plan to update the site in a significant way that meets the project's requirements.
 
+![image info](./welcome.png)
+![image info](./eboard.png)
+![image info](./gallery.png)
+![image info](./links.png)
+![image info](./membership.png)
+![image info](./about.png)
+![image info](./nav.png)
+
 TODO: tell us about the website you intend to design and build
 
 
