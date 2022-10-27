@@ -49,7 +49,7 @@ For visitors to learn more about CSA as an organization and want to join the clu
 
 4. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
 
-Would like to stick with a red theme (not bright red, the current red is fine). Faving faces on the website is important as well.
+Would like to stick with a red theme (not bright red, the current red is fine). Having faces on the website is important as well.
 
 
 
@@ -79,7 +79,7 @@ Notes: CSA is a widely known cultural organization on Cornell's campus (and othe
 ![image info](./about.png)
 ![image info](./nav.png)
 
-The website we intend to build will keep the current color theme but will include more interactivity. We will also make the layout consistent for all the pages. For example, the membership page has a side menu bar while the other pages do not. One of the main goals of the users who visit this website is to learn about the events that CSA hosts. We will create an "Events" page that includes photos and information about the events so that is easier for the users to find this information.
+The website we intend to build will keep the current color theme but will include more interactivity. We will also make the layout consistent for all the pages. For example, the membership page has a side menu bar while the other pages do not. One of the main goals of the users who visit this website is to learn about the events that CSA hosts. We will create an "Events" page that includes photos and information about the events so that is easier for the users to find this information. The client wanted a more aesthetically pleasing website and highlighted the importance of photos so we will disperse photos throughout the website more than there currently are.
 
 
 ### Client Goals (Milestone 1)
@@ -87,10 +87,11 @@ The website we intend to build will keep the current color theme but will includ
 > What kind of website do they want? What are their goals for the site?
 > There is no required number of goals. You need as many goals as necessary to reflect your client's desires.
 
-- TODO: Goal 1
-- TODO: Goal 2
-- TODO: Goal 3
-- ...
+- A more visually appealing website ( pictures of members throughout)
+- Information about the organization should be easily accessible for users
+- Convey a fun communal image of the organization which encourages users to join
+- Colors scheme should be consistent with the idea of China (red)
+- Highlight the communal aspect which is central to the organization
 
 
 ### Client Website Scope (Milestone 1)
