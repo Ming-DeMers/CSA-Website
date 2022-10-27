@@ -73,13 +73,13 @@ Notes: CSA is a widely known cultural organization on Cornell's campus (and othe
 
 Current CSA Website and Screenshots:
 <https://www.csacornell.org/>
-![image info](./welcome.png)
-![image info](./eboard.png)
-![image info](./gallery.png)
-![image info](./links.png)
-![image info](./membership.png)
-![image info](./about.png)
-![image info](./nav.png)
+![Welcome screenshot](./welcome.png)
+![Eboard screenshot](./eboard.png)
+![Gallery screenshot info](./gallery.png)
+![Links screenshot](./links.png)
+![Membership info screenshot](./membership.png)
+![About screenshot](./about.png)
+![Navigation screenshot](./nav.png)
 
 The website we intend to build will keep the current color theme but will include more interactivity. We will also make the layout consistent for all the pages. For example, the membership page has a side menu bar while the other pages do not. One of the main goals of the users who visit this website is to learn about the events that CSA hosts. We will create an "Events" page that includes photos and information about the events so that is easier for the users to find this information. The client wanted a more aesthetically pleasing website and highlighted the importance of photos so we will disperse photos throughout the website more than there currently are.
 
