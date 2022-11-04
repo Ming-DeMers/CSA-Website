@@ -129,11 +129,11 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-2. TODO: add your own question
+2. What cultural clubs have you heard about on campus at Cornell? How did you hear about these clubs?
 
-3. TODO: add your own question
+3. When you're looking for information about these clubs where would you look?
 
-4. TODO: add your own question
+4. What kind of information regarding the club would you be interested in finding?
 
 ...
 
