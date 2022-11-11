@@ -141,19 +141,34 @@ n. What haven't I asked you today that you think would be valuable for me to kno
 
 **After the interview:** "This was really helpful. Thank you so much for agreeing to speak with me today. Have a great day!"
 
-
 ### Interview Notes (Milestone 2)
 > Interview at least 1 person for every member of your team from your audience.
 > Take notes and include those notes here. Make sure to include a brief description of each interviewee.
 > **Copy the interview questions above into each interviewee section below.**
 > Take notes for each participant inline with the questions.
 
-**Interviewee 1:**
+**Interviewee 1: Keri Yamaguchi**
 
-TODO: tell us a bit about your participant
+1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+Keri Y. is a Japanese-Chinese American and she has lived in Upstate NY her whole life. She went to a predominately white school district and she was exposed to very little diversity during this time.
+
+2. What cultural clubs have you heard about on campus at Cornell? How did you hear about these clubs?
+
+"Csa, JUSA, kasa, ksa. I hear them from social media platforms, specifically Instagram. Also, a lot of times it spreads by word of mouth as my friens also talked about them near the beginning of the school year."
+
+3. When you're looking for information about these clubs where would you look?
+
+"I would also go on Instagram for information regarding these organizations because I assume that these orgs have an Instagram page that stays up to date either with their LinkTree or posts regarding information and upcoming events."
+
+4. What kind of information regarding the club would you be interested in finding?
+
+"Information such as general meetings and events. "
+
+5. What haven't I asked you today that you think would be valuable for me to know?
+
+N/A
+
 
 
 **Interviewee 2:**
@@ -227,17 +242,19 @@ Include two screenshots of the home page for each site: narrow and wide.
 
 **We'll refer to these are your "example websites."**
 
-1. <TODO: website url>
+1. <https://www.harvardcsa.org/>
 
     ![TODO: narrow screenshot description](TODO: narrow screenshot path)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    Harvard CSA Utopia FAQ Page Wide
+    ![alt text](/harvardcsa_utopia_page.png)
 
-2. <TODO: website url>
+2. <https://isucornell.com/>
 
     ![TODO: narrow screenshot description](TODO: narrow screenshot path)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ISU Homepage Wide
+    ![alt text](/isu_homepage.png)
 
 3. <TODO: website url>
 
