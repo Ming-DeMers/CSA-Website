@@ -171,8 +171,12 @@ N/A
 =======
 
 
+<<<<<<< Updated upstream
 **Interviewee 3:**
 >>>>>>> 78d638adbeaffdecdfb733f7f79e886e035130e6
+=======
+**Interviewee 2:**
+>>>>>>> Stashed changes
 
 TODO: tell us a bit about your participant
 
@@ -190,9 +194,15 @@ TODO: take notes inline with questions
 
 TODO: tell us a bit about your participant
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+ My name is Maxwell Pang, currently a sophomore majoring in Computer Science through the College of Engineering. Fun fact: I am scuba certified.
 
+2. What cultural clubs have you heard about on campus at Cornell? How did you hear about these clubs?
+CSA, MCSA, CSSA, HKSA, CVA, KSA, KASA, TSA, JUSA. I heard about many of these clubs through CSA because CSA (which I am apart of) does many events and collaborates with other cultural clubs.
+3. When you're looking for information about these clubs where would you look?
+I generally go to Instagram to find these clubs because they always have a linktree within their Instagram bio which leads to all of their stuff and generally the Instagram page is the most updated with events and such.
+4. What kind of information regarding the club would you be interested in finding?
+I'm looking for upcoming events and how to participate. I am also interested in finding who is actually part of the club, particuarly if there are people I know within the clubs.
 
 ### Goals (Milestone 2)
 > Analyze your audience's goals from your notes above.
@@ -238,12 +248,10 @@ Include two screenshots of the home page for each site: narrow and wide.
 
     ![Harvard CSA Utopia FAQ Narrow](TODO: narrow screenshot path)
 
-<<<<<<< HEAD
     ![TODO: wide screenshot description](TODO: wide screenshot path)
-=======
+
     Harvard CSA Utopia FAQ Page Wide
     ![alt text](/harvardcsa_utopia_page.png)
->>>>>>> 78d638adbeaffdecdfb733f7f79e886e035130e6
 
 2. <https://isucornell.com/>
 
