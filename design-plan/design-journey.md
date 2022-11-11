@@ -51,8 +51,6 @@ For visitors to learn more about CSA as an organization and want to join the clu
 
 Would like to stick with a red theme (not bright red, the current red is fine). Faving faces on the website is important as well.
 
-
-
 3. What are your three favorite competitors or similar organizations' websites? Why?
 
 Don't have any favorites, but can check out usc’s casa website and Harvard’s c
@@ -124,8 +122,6 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 
 4. What kind of information regarding the club would you be interested in finding?
 
-5. What haven't I asked you today that you think would be valuable for me to know?
-
 ...
 
 n. What haven't I asked you today that you think would be valuable for me to know?
@@ -161,7 +157,7 @@ Keri Y. is a Japanese-Chinese American and she has lived in Upstate NY her whole
 
 N/A
 
-**Interviewee 2:**
+**Interviewee 2: Luke Trautwein**
 
 TODO: tell us a bit about your participant
 
@@ -169,7 +165,7 @@ TODO: copy interview questions
 TODO: take notes inline with questions
 
 
-**Interviewee 3:**
+**Interviewee 3: **
 
 TODO: tell us a bit about your participant
 
@@ -233,7 +229,7 @@ Include two screenshots of the home page for each site: narrow and wide.
 
 **We'll refer to these are your "example websites."**
 
-1. <TODO: website url>
+1. <TODO: website url>u
 
     ![TODO: narrow screenshot description](TODO: narrow screenshot path)
 
@@ -247,9 +243,9 @@ Include two screenshots of the home page for each site: narrow and wide.
 
 3. <TODO: website url>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![UPenn CSA Wide](/design-plan/upenn-csa-wide.png)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ![UPenn CSA Narrow](/design-plan/upenn-csa-narrow.png)
 
 
 ### Example Website 1 Review (Milestone 2)
@@ -270,7 +266,7 @@ TODO: website reflection/critique
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
+Upenn's CSA website has three pages: "home," "events," "big little," and "board." The pages are linked at the top right corner and the interactivity elements utilized are automatic scrolling gallery, carousel gallery, opening to external links, horizontal scrolling to access "events" (both upcoming and past). Also, the top right corner linked pages do not link to external pages, but rather they
 
 
 ## Content Planning (Milestone 2)
