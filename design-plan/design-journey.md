@@ -167,27 +167,17 @@ Keri Y. is a Japanese-Chinese American and she has lived in Upstate NY her whole
 
 N/A
 
-<<<<<<< HEAD
 **Interviewee 2: Luke Trautwein**
 =======
 
 
-**Interviewee 2:**
+**Interviewee 3:**
 >>>>>>> 78d638adbeaffdecdfb733f7f79e886e035130e6
 
 TODO: tell us a bit about your participant
 
 TODO: copy interview questions
 TODO: take notes inline with questions
-
-
-**Interviewee 3: **
-
-TODO: tell us a bit about your participant
-
-TODO: copy interview questions
-TODO: take notes inline with questions
-
 
 **Interviewee 4:**
 
@@ -262,7 +252,7 @@ Include two screenshots of the home page for each site: narrow and wide.
     ISU Homepage Wide
     ![alt text](/isu_homepage.png)
 
-3. <TODO: website url>
+3. <https://upenncsa.com/>
 
     ![UPenn CSA Wide](/design-plan/upenn-csa-wide.png)
 
@@ -287,7 +277,7 @@ TODO: website reflection/critique
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-Upenn's CSA website has three pages: "home," "events," "big little," and "board." The pages are linked at the top right corner and the interactivity elements utilized are automatic scrolling gallery, carousel gallery, opening to external links, horizontal scrolling to access "events" (both upcoming and past). Also, the top right corner linked pages do not link to external pages, but rather they
+Upenn's CSA website has three pages: "home," "events," "big little," and "board." The pages are linked at the top right corner and do not link to external pages, but rather they rubber band down to the section on the main page that discusses the section. The interactivity elements utilized are automatic scrolling gallery, carousel gallery, opening to external links, horizontal scrolling to access "events" (both upcoming and past).
 
 
 ## Content Planning (Milestone 2)
