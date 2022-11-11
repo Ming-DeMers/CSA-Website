@@ -201,6 +201,25 @@ TODO: tell us a bit about your participant
 TODO: copy interview questions
 TODO: take notes inline with questions
 
+**Interviewee 4:**
+
+TODO: tell us a bit about your participant
+
+TODO: copy interview questions
+TODO: take notes inline with questions
+
+
+TODO: add additional interviewees as needed
+
+**Interviewee 5:**
+
+TODO: tell us a bit about your participant
+
+TODO: copy interview questions
+TODO: take notes inline with questions
+
+
+TODO: add additional interviewees as needed
 
 ### Goals (Milestone 2)
 > Analyze your audience's goals from your notes above.
@@ -210,16 +229,16 @@ Goal 1: Learn what CSA is about, what they do?
 
 - **Design Ideas and Choices** To emphasize/make it clear for the user what CSA stands for as a club, we will place this information in an easily accessible location for the user. This can be implemented by giving the about information of CSA its own page clearly labeled in the navigation bar.
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - By providing the about information to the user on a seperate page all the information regarding the club will be consolidated into one spot
+  - TODO: rationale
 
-Goal 2: Learn how to join CSA
+Goal 2: TODO: brief title
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
   - TODO: design ideas
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
   - TODO: rationale
 
-Goal 3: See what CSA events there are
+Goal 3: TODO: brief title
 
 TODO: design ideas and rationale
 
