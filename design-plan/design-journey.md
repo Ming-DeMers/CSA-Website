@@ -255,13 +255,15 @@ Include two screenshots of the home page for each site: narrow and wide.
 
     ![TODO: narrow screenshot description](TODO: narrow screenshot path)
 
-    ![Harvard CSA Utopia FAQ Page](![alt text](/harvardcsa_utopia_page.png))
+    Harvard CSA Utopia FAQ Page Wide
+    ![alt text](/harvardcsa_utopia_page.png)
 
-2. <TODO: website url>
+2. <https://isucornell.com/>
 
     ![TODO: narrow screenshot description](TODO: narrow screenshot path)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ISU Homepage Wide
+    ![alt text](/isu_homepage.png)
 
 3. <TODO: website url>
 
