@@ -253,7 +253,7 @@ Include two screenshots of the home page for each site: narrow and wide.
 
 1. <https://www.harvardcsa.org/>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![Harvard CSA Utopia FAQ Narrow](TODO: narrow screenshot path)
 
     Harvard CSA Utopia FAQ Page Wide
     ![alt text](/harvardcsa_utopia_page.png)
