@@ -49,7 +49,7 @@ For visitors to learn more about CSA as an organization and want to join the clu
 
 4. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
 
-Would like to stick with a red theme (not bright red, the current red is fine). Having faces on the website is important as well.
+Would like to stick with a red theme (not bright red, the current red is fine). Faving faces on the website is important as well.
 
 
 
@@ -71,17 +71,7 @@ Notes: CSA is a widely known cultural organization on Cornell's campus (and othe
 > Note: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** (FireFox makes it easy to take a full screenshot of a page from the context menu (right click).)
 > If you are redesigning an existing site, tell us how you plan to update the site in a significant way that meets the project's requirements.
 
-Current CSA Website and Screenshots:
-<https://www.csacornell.org/>
-![Welcome screenshot](./welcome.png)
-![Eboard screenshot](./eboard.png)
-![Gallery screenshot info](./gallery.png)
-![Links screenshot](./links.png)
-![Membership info screenshot](./membership.png)
-![About screenshot](./about.png)
-![Navigation screenshot](./nav.png)
-
-The website we intend to build will keep the current color theme but will include more interactivity. We will also make the layout consistent for all the pages. For example, the membership page has a side menu bar while the other pages do not. One of the main goals of the users who visit this website is to learn about the events that CSA hosts. We will create an "Events" page that includes photos and information about the events so that is easier for the users to find this information. The client wanted a more aesthetically pleasing website and highlighted the importance of photos so we will disperse photos throughout the website more than there currently are.
+TODO: tell us about the website you intend to design and build
 
 
 ### Client Goals (Milestone 1)
@@ -89,11 +79,10 @@ The website we intend to build will keep the current color theme but will includ
 > What kind of website do they want? What are their goals for the site?
 > There is no required number of goals. You need as many goals as necessary to reflect your client's desires.
 
-- A more visually appealing website ( pictures of members throughout)
-- Information about the organization should be easily accessible for users
-- Convey a fun communal image of the organization which encourages users to join
-- Colors scheme should be consistent with the idea of China (red)
-- Highlight the communal aspect which is central to the organization
+- TODO: Goal 1
+- TODO: Goal 2
+- TODO: Goal 3
+- ...
 
 
 ### Client Website Scope (Milestone 1)
@@ -125,15 +114,15 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 > Plan the user interview which you'll use to identify the goals of your site's audience.
 > You may use the interview template below and revise it as much as you desire.
 
-**User Interview Briefing & Consent:** "Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project, I am designing the website for Cornell's Chinese Student Association. I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10 minutes. You are free to quit at any time."
+**User Interview Briefing & Consent:** "Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project, I am designing the website for (TODO: client's name). I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10 minutes. You are free to quit at any time."
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-2. What cultural clubs have you heard about on campus at Cornell? How did you hear about these clubs?
+2. TODO: add your own question
 
-3. When you're looking for information about these clubs where would you look?
+3. TODO: add your own question
 
-4. What kind of information regarding the club would you be interested in finding?
+4. TODO: add your own question
 
 ...
 
@@ -148,12 +137,27 @@ n. What haven't I asked you today that you think would be valuable for me to kno
 > **Copy the interview questions above into each interviewee section below.**
 > Take notes for each participant inline with the questions.
 
-**Interviewee 1:**
+**Interviewee 1: Keri Yamaguchi**
 
-TODO: tell us a bit about your participant
+1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+Keri Y. is a Japanese-Chinese American and she has lived in Upstate NY her whole life. She went to a predominately white school district and she was exposed to very little diversity during this time.
+
+2. What cultural clubs have you heard about on campus at Cornell? How did you hear about these clubs?
+
+"Csa, JUSA, kasa, ksa. I hear them from social media platforms, specifically Instagram. Also, a lot of times it spreads by word of mouth as my friens also talked about them near the beginning of the school year."
+
+3. When you're looking for information about these clubs where would you look?
+
+"I would also go on Instagram for information regarding these organizations because I assume that these orgs have an Instagram page that stays up to date either with their LinkTree or posts regarding information and upcoming events."
+
+4. What kind of information regarding the club would you be interested in finding?
+
+"Information such as general meetings and events. "
+
+5. What haven't I asked you today that you think would be valuable for me to know?
+
+N/A
 
 
 **Interviewee 2:**
@@ -172,7 +176,19 @@ TODO: copy interview questions
 TODO: take notes inline with questions
 
 
-TODO: add additional interviewees as needed
+**Interviewee 4:**
+
+TODO: tell us a bit about your participant
+
+TODO: copy interview questions
+TODO: take notes inline with questions
+
+**Interviewee 5:**
+
+TODO: tell us a bit about your participant
+
+TODO: copy interview questions
+TODO: take notes inline with questions
 
 **Interviewee 4:**
 
