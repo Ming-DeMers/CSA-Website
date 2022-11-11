@@ -71,7 +71,17 @@ Notes: CSA is a widely known cultural organization on Cornell's campus (and othe
 > Note: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** (FireFox makes it easy to take a full screenshot of a page from the context menu (right click).)
 > If you are redesigning an existing site, tell us how you plan to update the site in a significant way that meets the project's requirements.
 
-TODO: tell us about the website you intend to design and build
+Current CSA Website and Screenshots:
+<https://www.csacornell.org/>
+![Welcome screenshot](./welcome.png)
+![Eboard screenshot](./eboard.png)
+![Gallery screenshot info](./gallery.png)
+![Links screenshot](./links.png)
+![Membership info screenshot](./membership.png)
+![About screenshot](./about.png)
+![Navigation screenshot](./nav.png)
+
+The website we intend to build will keep the current color theme but will include more interactivity. We will also make the layout consistent for all the pages. For example, the membership page has a side menu bar while the other pages do not. One of the main goals of the users who visit this website is to learn about the events that CSA hosts. We will create an "Events" page that includes photos and information about the events so that is easier for the users to find this information. The client wanted a more aesthetically pleasing website and highlighted the importance of photos so we will disperse photos throughout the website more than there currently are.
 
 
 ### Client Goals (Milestone 1)
@@ -79,10 +89,11 @@ TODO: tell us about the website you intend to design and build
 > What kind of website do they want? What are their goals for the site?
 > There is no required number of goals. You need as many goals as necessary to reflect your client's desires.
 
-- TODO: Goal 1
-- TODO: Goal 2
-- TODO: Goal 3
-- ...
+- A more visually appealing website ( pictures of members throughout)
+- Information about the organization should be easily accessible for users
+- Convey a fun communal image of the organization which encourages users to join
+- Colors scheme should be consistent with the idea of China (red)
+- Highlight the communal aspect which is central to the organization
 
 
 ### Client Website Scope (Milestone 1)
@@ -114,22 +125,21 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 > Plan the user interview which you'll use to identify the goals of your site's audience.
 > You may use the interview template below and revise it as much as you desire.
 
-**User Interview Briefing & Consent:** "Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project, I am designing the website for (TODO: client's name). I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10 minutes. You are free to quit at any time."
+**User Interview Briefing & Consent:** "Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project, I am designing the website for Cornell's Chinese Student Association. I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10 minutes. You are free to quit at any time."
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-2. TODO: add your own question
+2. What cultural clubs have you heard about on campus at Cornell? How did you hear about these clubs?
 
-3. TODO: add your own question
+3. When you're looking for information about these clubs where would you look?
 
-4. TODO: add your own question
+4. What kind of information regarding the club would you be interested in finding?
 
 ...
 
 n. What haven't I asked you today that you think would be valuable for me to know?
 
 **After the interview:** "This was really helpful. Thank you so much for agreeing to speak with me today. Have a great day!"
-
 
 ### Interview Notes (Milestone 2)
 > Interview at least 1 person for every member of your team from your audience.
@@ -158,6 +168,7 @@ Keri Y. is a Japanese-Chinese American and she has lived in Upstate NY her whole
 5. What haven't I asked you today that you think would be valuable for me to know?
 
 N/A
+
 
 
 **Interviewee 2:**
@@ -190,45 +201,25 @@ TODO: tell us a bit about your participant
 TODO: copy interview questions
 TODO: take notes inline with questions
 
-**Interviewee 4:**
-
-TODO: tell us a bit about your participant
-
-TODO: copy interview questions
-TODO: take notes inline with questions
-
-
-TODO: add additional interviewees as needed
-
-**Interviewee 5:**
-
-TODO: tell us a bit about your participant
-
-TODO: copy interview questions
-TODO: take notes inline with questions
-
-
-TODO: add additional interviewees as needed
 
 ### Goals (Milestone 2)
 > Analyze your audience's goals from your notes above.
 > List each goal below. There is no specific number of goals required for this, but you need enough to do the job (Hint: It's more than 1 and probably more than 2).
 
-Goal 1: TODO: brief title
+Goal 1: Learn what CSA is about, what they do?
+
+- **Design Ideas and Choices** To emphasize/make it clear for the user what CSA stands for as a club, we will place this information in an easily accessible location for the user. This can be implemented by giving the about information of CSA its own page clearly labeled in the navigation bar.
+- **Rationale & Additional Notes** _Justify your decisions; additional notes._
+  - By providing the about information to the user on a seperate page all the information regarding the club will be consolidated into one spot
+
+Goal 2: Learn how to join CSA
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
   - TODO: design ideas
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
   - TODO: rationale
 
-Goal 2: TODO: brief title
-
-- **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
-- **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
-
-Goal 3: TODO: brief title
+Goal 3: See what CSA events there are
 
 TODO: design ideas and rationale
 
