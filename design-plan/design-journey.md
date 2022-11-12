@@ -168,31 +168,69 @@ Keri Y. is a Japanese-Chinese American and she has lived in Upstate NY her whole
 N/A
 
 **Interviewee 2: Luke Trautwein**
-=======
+1. Please tell me a bit about yourself. You may omit any personal or private information.
 
+"My name is Luke Trautwein and I'm a current sophomore studying economics in the college of arts and sciences. I am currently not very involved on campus, but I do enjoy spending my time rock climbing and learning new skills."
 
-<<<<<<< Updated upstream
-**Interviewee 3:**
->>>>>>> 78d638adbeaffdecdfb733f7f79e886e035130e6
-=======
-**Interviewee 2:**
->>>>>>> Stashed changes
+2. What cultural clubs have you heard about on campus at Cornell? How did you hear about these clubs?
 
-TODO: tell us a bit about your participant
+"I have heard of CSA, but that's about it. It's probably because most of my friends are Chinese and they talk a lot about the club and the social events that they have."
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+3. When you're looking for information about these clubs where would you look?
 
-**Interviewee 4:**
+"I usually find out about clubs through Instagram or through promotional flyers that are hung up around the school. However, if I wanted to to actually find out information about a club that I heard about, I would go on Instagram."
 
-TODO: tell us a bit about your participant
+4. What kind of information regarding the club would you be interested in finding?
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+"I would be interested about what the club is about, who runs the club, what activities they do, what general student commitment looks like, and how often the club meets."
 
-**Interviewee 5:**
+n. What haven't I asked you today that you think would be valuable for me to know?
 
-TODO: tell us a bit about your participant
+N/A
+
+**Interviewee 3: Nathan Tai**
+
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+"Hi I am student at Cornell University who enjoys weight lifting and going to class."
+
+2. What cultural clubs have you heard about on campus at Cornell? How did you hear about these clubs?
+"I have heard about the Cornell CSA club through mutual friends."
+
+3. When you're looking for information about these clubs where would you look?
+"When I look for information about these clubs I try to find out if they have a website. The website contains, as long as its updated, most of the critical information that I usually need such as events, meeting times, and who the current e-board is."
+
+4. What kind of information regarding the club would you be interested in finding?
+"I am interested in finding out how to learn more about clubs."
+
+n. What haven't I asked you today that you think would be valuable for me to know?
+
+N/A
+
+**Interviewee 4: Nancy Duong**
+
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+
+"nancy, second year info sci major at cornell"
+
+1. What cultural clubs have you heard about on campus at Cornell? How did you hear about these clubs?
+
+"csa, cva, kasa, hksa. thru word of mouth mostly, and instagram repost stores"
+
+2. When you're looking for information about these clubs where would you look?
+
+"i usually go on instagram for information"
+
+3. What kind of information regarding the club would you be interested in finding?
+
+"how to join, the events they host, images of their past events"
+
+n. What haven't I asked you today that you think would be valuable for me to know?
+
+"it doesnt seem like cva has a website if u think csa’s website is too established for a rework"
+
+note: interesting; looks like she recommended looking at another website
+
+**Interviewee 5: Maxwell Pang**
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
  My name is Maxwell Pang, currently a sophomore majoring in Computer Science through the College of Engineering. Fun fact: I am scuba certified.
