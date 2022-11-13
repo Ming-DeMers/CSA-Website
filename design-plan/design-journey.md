@@ -51,8 +51,6 @@ For visitors to learn more about CSA as an organization and want to join the clu
 
 Would like to stick with a red theme (not bright red, the current red is fine). Faving faces on the website is important as well.
 
-
-
 3. What are your three favorite competitors or similar organizations' websites? Why?
 
 Don't have any favorites, but can check out usc’s casa website and Harvard’s c
@@ -169,57 +167,80 @@ Keri Y. is a Japanese-Chinese American and she has lived in Upstate NY her whole
 
 N/A
 
+**Interviewee 2: Luke Trautwein**
+1. Please tell me a bit about yourself. You may omit any personal or private information.
 
+"My name is Luke Trautwein and I'm a current sophomore studying economics in the college of arts and sciences. I am currently not very involved on campus, but I do enjoy spending my time rock climbing and learning new skills."
 
-**Interviewee 2:**
+2. What cultural clubs have you heard about on campus at Cornell? How did you hear about these clubs?
 
-TODO: tell us a bit about your participant
+"I have heard of CSA, but that's about it. It's probably because most of my friends are Chinese and they talk a lot about the club and the social events that they have."
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+3. When you're looking for information about these clubs where would you look?
 
+"I usually find out about clubs through Instagram or through promotional flyers that are hung up around the school. However, if I wanted to to actually find out information about a club that I heard about, I would go on Instagram."
 
-**Interviewee 3:**
+4. What kind of information regarding the club would you be interested in finding?
 
-TODO: tell us a bit about your participant
+"I would be interested about what the club is about, who runs the club, what activities they do, what general student commitment looks like, and how often the club meets."
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+n. What haven't I asked you today that you think would be valuable for me to know?
 
+N/A
 
-**Interviewee 4:**
+**Interviewee 3: Nathan Tai**
 
-TODO: tell us a bit about your participant
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+"Hi I am student at Cornell University who enjoys weight lifting and going to class."
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+2. What cultural clubs have you heard about on campus at Cornell? How did you hear about these clubs?
+"I have heard about the Cornell CSA club through mutual friends."
 
-**Interviewee 5:**
+3. When you're looking for information about these clubs where would you look?
+"When I look for information about these clubs I try to find out if they have a website. The website contains, as long as its updated, most of the critical information that I usually need such as events, meeting times, and who the current e-board is."
 
-TODO: tell us a bit about your participant
+4. What kind of information regarding the club would you be interested in finding?
+"I am interested in finding out how to learn more about clubs."
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+n. What haven't I asked you today that you think would be valuable for me to know?
 
-**Interviewee 4:**
+N/A
 
-TODO: tell us a bit about your participant
+**Interviewee 4: Nancy Duong**
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+1. Please tell me a bit about yourself. You may omit any personal or private information.
 
+"nancy, second year info sci major at cornell"
 
-TODO: add additional interviewees as needed
+1. What cultural clubs have you heard about on campus at Cornell? How did you hear about these clubs?
 
-**Interviewee 5:**
+"csa, cva, kasa, hksa. thru word of mouth mostly, and instagram repost stores"
 
-TODO: tell us a bit about your participant
+2. When you're looking for information about these clubs where would you look?
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+"i usually go on instagram for information"
 
+3. What kind of information regarding the club would you be interested in finding?
 
-TODO: add additional interviewees as needed
+"how to join, the events they host, images of their past events"
+
+n. What haven't I asked you today that you think would be valuable for me to know?
+
+"it doesnt seem like cva has a website if u think csa’s website is too established for a rework"
+
+note: interesting; looks like she recommended looking at another website
+
+**Interviewee 5: Maxwell Pang**
+
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+ My name is Maxwell Pang, currently a sophomore majoring in Computer Science through the College of Engineering. Fun fact: I am scuba certified.
+
+2. What cultural clubs have you heard about on campus at Cornell? How did you hear about these clubs?
+CSA, MCSA, CSSA, HKSA, CVA, KSA, KASA, TSA, JUSA. I heard about many of these clubs through CSA because CSA (which I am apart of) does many events and collaborates with other cultural clubs.
+3. When you're looking for information about these clubs where would you look?
+I generally go to Instagram to find these clubs because they always have a linktree within their Instagram bio which leads to all of their stuff and generally the Instagram page is the most updated with events and such.
+4. What kind of information regarding the club would you be interested in finding?
+I'm looking for upcoming events and how to participate. I am also interested in finding who is actually part of the club, particuarly if there are people I know within the clubs.
 
 ### Goals (Milestone 2)
 > Analyze your audience's goals from your notes above.
@@ -261,10 +282,12 @@ Include two screenshots of the home page for each site: narrow and wide.
 
 **We'll refer to these are your "example websites."**
 
-1. <https://www.harvardcsa.org/>
+1. <TODO: website url>u
 
     Harvard CSA Utopia FAQ Narrow
     ![alt text](/harvard-csa-homepage_narrow.png)
+
+    ![TODO: wide screenshot description](TODO: wide screenshot path)
 
     Harvard CSA Utopia FAQ Page Wide
     ![alt text](/harvardcsa_utopia_page.png)
@@ -276,11 +299,11 @@ Include two screenshots of the home page for each site: narrow and wide.
     ISU Homepage Wide
     ![alt text](/isu_homepage.png)
 
-3. <TODO: website url>
+3. <https://upenncsa.com/>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![UPenn CSA Wide](/design-plan/upenn-csa-wide.png)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ![UPenn CSA Narrow](/design-plan/upenn-csa-narrow.png)
 
 
 ### Example Website 1 Review (Milestone 2)
@@ -301,7 +324,7 @@ TODO: website reflection/critique
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
+Upenn's CSA website has three pages: "home," "events," "big little," and "board." The pages are linked at the top right corner and do not link to external pages, but rather they rubber band down to the section on the main page that discusses the section. The interactivity elements utilized are automatic scrolling gallery, carousel gallery, opening to external links, horizontal scrolling to access "events" (both upcoming and past).
 
 
 ## Content Planning (Milestone 2)
