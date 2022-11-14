@@ -267,14 +267,11 @@ Goal 3: See current members of CSA to see if any mutuals are a part of the club
   - By having a gallery of images visitors to the website can see snippets of CSA members, not only will the gallery show users the fun atmosphere of events but they may also see a mutual friend in the club and this will encourage them to be more likely to join CSA.
 
 
-
-
-
 ### Audience (Milestone 2)
 > Briefly explain your site's audience.
 > Be specific and justify why this audience is a **cohesive** group with regard to your website.
 
-TODO: site's _cohesive_ audience
+Our site's cohesive audience is Cornell students interested in participating/finding information about a cultural organization on campus.
 
 
 ## Website Design Exploration (Milestone 2)
