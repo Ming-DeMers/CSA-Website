@@ -361,11 +361,16 @@ Iteration 1: We have five different sections for the content that we plan to hav
 
 Iteration 2: This iteration is similar to iteration 1, except that we changed around the FAQ section for both general information and membership information. We decided to do this because the homepage is the first page that the user will land on; it is most likely that users would expect to find their general information on this page, and this information includes the FAQs.
 
+Card Iteration 1
+![alt text](/card_iteration_1.jpeg)
+
+Card Iteration 2
+![alt text](/card_iteration_2.jpeg)
 
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
 
-We plan to use iteration 1.
+We are planning to use Card Iteration 1.
 
 > Explain how the final organization of content is appropriate for your site's audiences.
 
@@ -375,14 +380,15 @@ This final organization makes sense to the user because each section pertains to
 ### Navigation (Milestone 2)
 > Please list the pages you will include in your website's navigation.
 
-- TODO: page 1
-- TODO: page 2
-- TODO: page 3
-- ...
+- Homepage
+- Membership
+- Events
+- Gallery
+- About
 
 > Explain why the names of these pages make sense for your site's audience.
 
-TODO: explain why the pages name make sense to the audience.
+This content is the right content for the site's audience because the text will relay information that they need (that was found through conducting user interviews) such as what the club is about, how to be a member, what events are hosted, and an FAQ section will be included to answer any general questions that come up from people. Then, the images and pictures will provide the visual aspects to give students an idea on what the events look like. In doing this, viewers can have an idea of what the mood and structure of CSA is like. Also, there will be a section to display e-board members, which gives a face to the organization for the people viewing the website.
 
 
 ## Visual Theme (Milestone 2)
