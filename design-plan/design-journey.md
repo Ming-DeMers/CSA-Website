@@ -357,17 +357,19 @@ This content is the right content for the site's audience because the text will 
 > Include photographic evidence of each iteration of card sorting **and** description of your thought process for each iteration.
 > Please physically sort cards; please don't try and do this digitally.
 
-TODO: photos and explanations of each iteration
+Iteration 1: We have five different sections for the content that we plan to have. On the homepage, we included welcome and sponsors content as they will give a brief introduction to the organization and show the viewers who sponors the clubs. In addition, we added an event notification section that will let viewers of the website know the upcoming event. In the membership section, we include information regarding being a member along with how to become one; this makes sense as all the content pertains to the subject of being a member in the club. In the gallery section, we will include photos of both people and events. In the about section, we plan on addressing exactly what the club is about and introduce the eboard; this allows viewers to know the purpose behind the organization along with knowing who runs it. Finally, in the events section, we plan on including both past and future events; this is so that viewers know what type of events CSA hosts and what events they can look forward to; this is different from the event notification because the event notification gives an update on the event that is closest to happening.
+
+Iteration 2: This iteration is similar to iteration 1, except that we changed around the FAQ section for both general information and membership information. We decided to do this because the homepage is the first page that the user will land on; it is most likely that users would expect to find their general information on this page, and this information includes the FAQs.
 
 
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
 
-TODO: tell us which iteration of card sorting you plan to use.
+We plan to use iteration 1.
 
 > Explain how the final organization of content is appropriate for your site's audiences.
 
-TODO: why does this organization make sense for your audience (not you)?
+This final organization makes sense to the user because each section pertains to a specific topic that the user may be interested in finding out about; it divides the content in a way so that information will not overlap and viewers are able to navigate to each section and view the content that they expect to see. the about section lets users know what the club is about; the membership section lets users know how they can become a member along with what being a member entails; the gallery section will showcase the pictures from club events; the events section will describe what events have happened and are happening; and finally, the homepage will be a general page that users land on in which they will receive the most surface level information to get a brief understanding of what the organization is and the users can then navigate to the other pages to find out more.
 
 
 ### Navigation (Milestone 2)
