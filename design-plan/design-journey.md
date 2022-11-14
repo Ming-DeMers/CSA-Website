@@ -359,6 +359,11 @@ This content is the right content for the site's audience because the text will 
 
 TODO: photos and explanations of each iteration
 
+Card Iteration 1
+![alt text](/card_iteration_1.jpeg)
+
+Card Iteration 2
+![alt text](/card_iteration_2.jpeg)
 
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
