@@ -271,7 +271,7 @@ Goal 3: See current members of CSA to see if any mutuals are a part of the club
 > Briefly explain your site's audience.
 > Be specific and justify why this audience is a **cohesive** group with regard to your website.
 
-Our site's cohesive audience is Cornell students interested in participating/finding information about a cultural organization on campus.
+TODO: site's _cohesive_ audience
 
 
 ## Website Design Exploration (Milestone 2)
@@ -335,18 +335,16 @@ Plan your site's content.
 > List **all** the content you plan to include your website.
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 
-- About information text
-- Event information text
-- Photos of EBoard
-- Photos of events/people at events
-- Images of CSA logo
-- FAQ text
+- TODO: content 1
+- TODO: content 2
+- TODO: content 3
+- ...
 
 
 ### Content Justification (Milestone 2)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
 
-TODO: justify your content decisions
+This content is the right content for the site's audience because the text will relay information that they need (that was found through conducting user interviews) such as what the club is about, how to be a member, what events are hosted, and an FAQ section will be included to answer any general questions that come up from people. Then, the images and pictures will provide the visual aspects to give students an idea on what the events look like. In doing this, viewers can have an idea of what the mood and structure of CSA is like. Also, there will be a section to display e-board members, which gives a face to the organization for the people viewing the website.
 
 
 ## Information Architecture (Milestone 2)
