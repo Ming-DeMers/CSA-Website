@@ -248,23 +248,26 @@ I'm looking for upcoming events and how to participate. I am also interested in 
 
 Goal 1: Learn what CSA is about, what they do?
 
-- **Design Ideas and Choices** To emphasize/make it clear for the user what CSA stands for as a club, we will place this information in an easily accessible location for the user. This can be implemented by giving the about information of CSA its own page clearly labeled in the navigation bar.
+- **Design Ideas and Choices** To emphasize/make it clear for the user what CSA stands for as a club, we will place this information in an easily accessible location for the user.
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+  - Giving the about information it's own page ensures the user will be able to easily find the information since it will be clearly listed in the navigation bar. Being on it's individual page will prevent the user from having to dig through pages to find the about information since it will have its own designated location.
 
-Goal 2: TODO: brief title
+Goal 2: Find out what events CSA is organizing/has organized in the past
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
+  - Similar to the design for the home page to the apple-fest project 2. Upcoming events will be explicitly displayed on the home landing page so it is the first thing visitors to the website see.
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+  - By displaying the upcoming event as the first thing visitors see it will serve as an invite for users to come to the event and experience what CSA is about first hand. Since CSA is a cultural/social club events are very important in connecting members together.
 
-Goal 3: TODO: brief title
+Goal 3: See current members of CSA to see if any mutuals are a part of the club
 
-TODO: design ideas and rationale
+**Design Ideas and Choices** _How will you meet those goals in your design?_
+  - Have a gallery of member pictures for eboard and photos of people who attended CSA events and photos of fams within CSA.
+- **Rationale & Additional Notes** _Justify your decisions; additional notes._
+  - By having a gallery of images visitors to the website can see snippets of CSA members, not only will the gallery show users the fun atmosphere of events but they may also see a mutual friend in the club and this will encourage them to be more likely to join CSA.
 
 
-TODO: add as many goals as needed
+
 
 
 ### Audience (Milestone 2)
