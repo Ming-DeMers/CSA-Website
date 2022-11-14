@@ -335,10 +335,13 @@ Plan your site's content.
 > List **all** the content you plan to include your website.
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 
-- TODO: content 1
-- TODO: content 2
-- TODO: content 3
-- ...
+- About information text
+- Event information text
+- Photos of Eboard
+- Photos of events/people at events
+- Images of CSA logoo
+- FAQ test
+- Membership information text
 
 
 ### Content Justification (Milestone 2)
