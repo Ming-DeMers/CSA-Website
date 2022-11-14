@@ -368,7 +368,7 @@ Card Iteration 2
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
 
-TODO: tell us which iteration of card sorting you plan to use.
+We are planning to use Card Iteration 1.
 
 > Explain how the final organization of content is appropriate for your site's audiences.
 
@@ -378,10 +378,11 @@ TODO: why does this organization make sense for your audience (not you)?
 ### Navigation (Milestone 2)
 > Please list the pages you will include in your website's navigation.
 
-- TODO: page 1
-- TODO: page 2
-- TODO: page 3
-- ...
+- Homepage
+- Membership
+- Events
+- Gallery
+- About
 
 > Explain why the names of these pages make sense for your site's audience.
 
