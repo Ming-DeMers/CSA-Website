@@ -54,6 +54,64 @@ html {
   border-bottom: 0px;
 }
 
+/* popups */
+.popup {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid #fba333;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.popup button {
+  /* would like to resize and right justify */
+}
+
+/* FAQs */
+#faqs .qa {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #fba333;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+
+}
+
+/* picture gallery */
+.picture-galley {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+.picture-galley img {
+  width: 100px;
+  margin: 20px;
+}
+
+/* blurbs */
+.blurb {
+  display: flex;
+  flex-direction: column;
+}
+
+.blurb .body {
+  display: flex;
+
+}
+.blurb img {
+  width: 100px;
+  margin: 20px;
+}
+
+/* eboard cards */
+.card {
+  border: 5px solid #fba333;
+
+}
 
 /* wider screens */
 @media (min-width: 600px) {}
