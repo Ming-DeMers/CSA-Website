@@ -428,6 +428,20 @@ Document your site's layout.
 
 TODO: layout exploration sketches + explanation
 
+Event Banner Narrow
+![alt text](/narrow_eventbanner.png)
+
+E.board Carousel Narrow
+![alt text](/narrow_eboard_carousel.png)
+
+Event Photos Carousel Narrow
+![alt text](/narrow_events_photos_carousel.png)
+
+Member Photos and Description Wide
+![alt text](/wide_members.png)
+
+Event Notification Pop-up Wide
+![alt text](/wide_event_notification_popup.png)
 
 ### Final Design (Milestone 2)
 > Include the final sketches for each of your pages.
