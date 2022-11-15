@@ -71,13 +71,13 @@ Notes: CSA is a widely known cultural organization on Cornell's campus (and othe
 
 Current CSA Website and Screenshots:
 <https://www.csacornell.org/>
-![Welcome screenshot](./welcome.png)
-![Eboard screenshot](./eboard.png)
-![Gallery screenshot info](./gallery.png)
-![Links screenshot](./links.png)
-![Membership info screenshot](./membership.png)
-![About screenshot](./about.png)
-![Navigation screenshot](./nav.png)
+![Welcome screenshot](design-plan/welcome.png)
+![Eboard screenshot](design-plan/eboard.png)
+![Gallery screenshot info](design-plan/gallery.png)
+![Links screenshot](design-plan/links.png)
+![Membership info screenshot](design-plan/membership.png)
+![About screenshot](design-plan/about.png)
+![Navigation screenshot](design-plan/nav.png)
 
 The website we intend to build will keep the current color theme but will include more interactivity. We will also make the layout consistent for all the pages. For example, the membership page has a side menu bar while the other pages do not. One of the main goals of the users who visit this website is to learn about the events that CSA hosts. We will create an "Events" page that includes photos and information about the events so that is easier for the users to find this information. The client wanted a more aesthetically pleasing website and highlighted the importance of photos so we will disperse photos throughout the website more than there currently are.
 
@@ -241,6 +241,8 @@ CSA, MCSA, CSSA, HKSA, CVA, KSA, KASA, TSA, JUSA. I heard about many of these cl
 I generally go to Instagram to find these clubs because they always have a linktree within their Instagram bio which leads to all of their stuff and generally the Instagram page is the most updated with events and such.
 4. What kind of information regarding the club would you be interested in finding?
 I'm looking for upcoming events and how to participate. I am also interested in finding who is actually part of the club, particuarly if there are people I know within the clubs.
+n. What haven't I asked you today that you think would be valuable for me to know?
+Perhaps fams could be included on the website to show off more of the CSA community
 
 ### Goals (Milestone 2)
 > Analyze your audience's goals from your notes above.
@@ -285,19 +287,19 @@ Include two screenshots of the home page for each site: narrow and wide.
 1. <TODO: website url>u
 
     Harvard CSA Utopia FAQ Narrow
-    ![alt text](/harvard-csa-homepage_narrow.png)
+    ![alt text](design-plan/harvard-csa-homepage_narrow.png)
 
     ![TODO: wide screenshot description](TODO: wide screenshot path)
 
     Harvard CSA Utopia FAQ Page Wide
-    ![alt text](/harvardcsa_utopia_page.png)
+    ![alt text](design-plan/harvardcsa_utopia_page.png)
 
 2. <https://isucornell.com/>
 
     ![TODO: narrow screenshot description](TODO: narrow screenshot path)
 
     ISU Homepage Wide
-    ![alt text](/isu_homepage.png)
+    ![alt text](design-plan/isu_homepage.png)
 
 3. <https://upenncsa.com/>
 
@@ -362,10 +364,10 @@ Iteration 1: We have five different sections for the content that we plan to hav
 Iteration 2: This iteration is similar to iteration 1, except that we changed around the FAQ section for both general information and membership information. We decided to do this because the homepage is the first page that the user will land on; it is most likely that users would expect to find their general information on this page, and this information includes the FAQs.
 
 Card Iteration 1
-![alt text](/card_iteration_1.jpeg)
+![Card Iteration 1 Image](design-plan/card_iteration_1.jpeg)
 
 Card Iteration 2
-![alt text](/card_iteration_2.jpeg)
+![Card Iteration 2 Image](design-plan/card_iteration_2.jpeg)
 
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
@@ -426,25 +428,23 @@ Document your site's layout.
 > Include some of your interactivity ideas in your sketches.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
-TODO: layout exploration sketches + explanation
-
-Event Banner Narrow
-![alt text](/narrow_eventbanner.png)
+![Event Banner Narrow](design-plan/narrow_eventbanner.png)
 This is the narrow version of the homepage of our website and includes a modal interactivity. As shown, our nav bar will be at the top, and there will be a welcome section on this part of the site; the pop up modal will be of the "event notification" that we discussed in the content planning that users can click away after they look at it.
 
 E.board Carousel Narrow
-![alt text](/narrow_eboard_carousel.png)
+![Eboard Carousel Narrow](design-plan/narrow_eboard_carousel.png)
 This is the narrow version of the about page of our website and includes the eboard members as a gallery interactivity element of a carousel gallery of all the e-board memberes. The about page will include information about the organization and show who the current e-board members of the organization are. Again, the nav bar is at the top and the content is displayed as stacked on top of each other.
 
 Event Photos Carousel Narrow
-![alt text](/narrow_events_photos_carousel.png)
+![Event Photos Carousel Narrow](design-plan/narrow_event_photos_carousel.png)
 This is the narrow version of our event page of our website and it includes another potential interactivty element of a carousel; but, this time, it is of the events that have occured.
 
-![alt text](/wide_members.png)
+Member Photos and Description Wide
+![Member Photos and Description Wide](design-plan/wide_members.png)
 This is the wide veresion of our website of our about page of the e-board section. In the wide screen, the eboard members are displayed in a horizontal manner and the interactivity involves clicking each picture and having a blurb show up.
 
 Event Notification Pop-up Wide
-![alt text](/wide_event_notification_popup.png)
+![Event Notification Pop-up Wide](design-plan/wide_event_notification_popup.png)
 This is the wide version of our home page; as seen, the modal is now more horizontally laid out, and the content on the page also follows the same horizontal spread. However, as consistent with the narrow screen version, the nav bar remains at the top.
 
 ### Final Design (Milestone 2)
