@@ -482,8 +482,29 @@ There will be two interactivity elements; the modal and the flip. The purpose of
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
-TODO: interactivity plan
+When website is first loaded onto the homepage. Modal alert of upcoming CSA event pops up and prompts the user to click "I will be there!" to dismiss the modal.
+html: <button> <p> <h1> <div>
+css: .hidden class {display: none;}, cursor:hover;, cursor:pointer;, background color changes when hovered
+Pseudocode:
+ when the user arrives on the website homepage {
+  pop up modal will be displayed over other content
+  }
 
+ when user clicks on ‘x’{
+  the pop up modal will be hidden
+  }
+Initial State: the initial state of the modal will be that it is not displayed as the homepage is not fully loaded yet; then, once it loads, the state changes to being displayed
+
+
+Flip picture to biography of CSA Eboard. When picture of CSA Eboard member is clicked their image flips and reveals a short fun biography of themselves
+html: <image> <p> <h1> <div>
+css: cursor:hover;, cursor:pointer;
+Pseudocode:
+ when user clicks on picture{
+  the picture will flip
+  the blurb is displayed
+  }
+Initial state: Eboard member photos are unflipped with short bio blurb hidden - Their picture is what is shown to the user before their image is clicked.
 
 ## Client Feedback & Minutes (Milestone 2)
 > You should meet with your client again to obtain feedback on your design.
