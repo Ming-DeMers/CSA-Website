@@ -462,13 +462,15 @@ When the user opens the website, there will be a pop-up that shows an upcoming e
 
 Membership Page Narrow
 ![Membership Page Narrow](/design-plan/narrow_membership_final.jpg)
-
+This page will have frequently asked questions about joining and being a member of CSA. It will also have a section about the benefits of being a member.
 
 Events Page Narrow
 ![Events Page Narrow](/design-plan/narrow_events_final.jpg)
+This page showcases upcoming and past events. It will include information such as the time, location, and what you can expect at the event.
 
 Gallery Page Narrow
 ![Gallery Page Narrow](/design-plan/narrow_gallery_final.jpg)
+This page will be a compilation of miscellaneous photos from events and team bonding events. This will be in a table format so that it is organized and easy to read.
 
 About Page
 ![About Page](/design-plan/narrow_about_final.jpg)
@@ -483,13 +485,15 @@ In order to implement the "wide" design, the same code as the "narrow" design ca
 
 Membership Page Wide
 ![Membership Page Wide](/design-plan/wide_membership_final.jpg)
-This page answers common asked questions about joining a CSA membership. Each question will be boxed in a red background with white text to better fit the color theme.
+This page answers common asked questions about joining a CSA membership. Each question will be boxed in a red background with white text to better fit the color and cultural theme.
 
 Events Page Wide
 ![Events Page Wide](/design-plan/wide_events_final.jpg)
+This page will feature the main upcoming event at the top and then will showcase some of their other popular past events that CSA has hosted.
 
 Gallery Page Wide
 ![Gallery Page Wide](/design-plan/wide_gallery_final.jpg)
+This page will show photos of the members or photos from events. This page will have miscellaneous photos about CSA.
 
 About Page Wide
 ![About Page Wide](/design-plan/wide_about_final.jpg)
