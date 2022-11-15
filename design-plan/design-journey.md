@@ -451,8 +451,7 @@ TODO: wide sketches and explanation
 > Specifically, why does your content organization, navigation, and site design/layout meet the goals of your users?
 > How did you employ **design patterns** to improve the familiarity of the site for your audience?
 
-TODO: 1 paragraph
-
+The design is appropriate for our audience because it utilizes colors significant in Chinese culture, which relates to the content and overall objective of the website, to inform students about what CSA is and how they can get involved. The content organization makes sense as it allow users to navigate to each section without seeing overalpping information; each section is clearly defined in that it addresses a specific type of information that the user would want to find. This also ties in with navigation, as each page that can be navgiated to contains distinct information. We employed design patters as we want to keep the content organized centrally and users will use vertical scrolling to digest the content; and, the theme is consistent across all the pages. This improves the familiarity of the site for our audience as all the pages will employ the same style and theming, making it clear that users are still on the same website. In addition, vertical scrolling is a common feature of websites.
 
 ## Interactivity Rationale (Milestone 2)
 > Describe the purpose of your proposed interactivity.
