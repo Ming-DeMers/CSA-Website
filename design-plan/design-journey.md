@@ -417,7 +417,6 @@ Document your site's layout.
 - Slide show of CSA pictures
 - Slideshow for eboard member pictures
 - Hamburger menu for navigation
--
 
 
 ### Layout Exploration (Milestone 2)
@@ -459,7 +458,7 @@ TODO: 1 paragraph
 > Describe the purpose of your proposed interactivity.
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
-TODO: 1 paragraph
+There will be two interactivity elements; the modal and the flip. The purpose of our proposed interactivity, starting with the modal, is that it will allow viewers to see what the next upcoming event is. It will pop up on the home screen, and users are able to dismiss it after viewing the information. The second element is the flip in which users will be able to click on a picture of e-board and a blurb about them will be shown. This will enhance the audience's experience because it will give them more information as to who the people who run the are. These interactivity elements address the goals as they provide more information that they would most likely want to learn when viewing the CSA website but in a less congested way as they do not take up more page space.
 
 
 ## Interactivity Plan (Milestone 2)
