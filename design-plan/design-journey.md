@@ -312,14 +312,14 @@ Include two screenshots of the home page for each site: narrow and wide.
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
+The Harvard CSA homepage has a video that showcases some of the events that they have hosted and the members having a good time. The design is consistent among the pages because the “homepage”, “utopia”, “sign up”, and “alumni” page have hero images/videos. The “about”, “meet the board”, and “contact us” pages have a left and right column layout. On the “utopia” page, there is an interactivity feature in the FAQ section where if you click on the plus button, the explanation to one of the questions show up.
 
 
 ### Example Website 2 Review (Milestone 2)
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
+The ISU homepage has a large carousel interactivity feature. Furthermore, their color palette choices and design is consistent throughout the many pages by utilizing dark blue, black, and white for its icons and text. The “people” and “resources” pages have a dropdown feature that highlights the sub-features when your mouse hovers over it. On the homepage, it has an automatic carousel feature that describes more about ISU such as funding, working closely with the student assembly, and providing mentorship.
 
 
 ### Example Website 3 Review (Milestone 2)
@@ -430,7 +430,7 @@ Document your site's layout.
 
 Event Banner Narrow
 ![Event Banner Narrow](/design-plan/narrow_eventbanner.jpg)
-
+This is the narrow version of the home page of our website and will have a large photo that shows an upcoming event that CSA will host. It will include information about the time and date, location, and what to expect at the event.
 
 E.board Carousel Narrow
 ![Eboard Carousel Narrow](/design-plan/narrow_eboard_carousel.jpg)
@@ -442,10 +442,11 @@ This is the narrow version of our event page of our website and it includes anot
 
 Member Photos and Description Wide
 ![Member Photos and Description Wide](/design-plan/wide_members.jpg)
-This is the wide veresion of our website of our about page of the e-board section. In the wide screen, the eboard members are displayed in a horizontal manner and the interactivity involves clicking each picture and having a blurb show up.
+This is the wide version of our website of our about page of the e-board section. In the wide screen, the eboard members are displayed in a horizontal manner and the interactivity involves clicking each picture and having a blurb show up.
 
 Event Notification Pop-up Wide
 ![Event Notification Pop-up Wide](/design-plan/wide_homepage.jpg)
+This is the wide version of our website and it will have a pop-up that shows an upcoming event that CSA will host. The pop-up will have a close button at the top right so that the user can view the rest of the homepage content.
 
 ### Final Design (Milestone 2)
 > Include the final sketches for each of your pages.
