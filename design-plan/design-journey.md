@@ -429,22 +429,23 @@ Document your site's layout.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
 Event Banner Narrow
-![Event Banner Narrow](/design-plan/narrow_eventbanner.png)
+![Event Banner Narrow](/design-plan/narrow_eventbanner.jpg)
+
 
 E.board Carousel Narrow
-![Eboard Carousel Narrow](/design-plan/narrow_eboard_carousel.png)
+![Eboard Carousel Narrow](/design-plan/narrow_eboard_carousel.jpg)
 This is the narrow version of the about page of our website and includes the eboard members as a gallery interactivity element of a carousel gallery of all the e-board memberes. The about page will include information about the organization and show who the current e-board members of the organization are. Again, the nav bar is at the top and the content is displayed as stacked on top of each other.
 
 Event Photos Carousel Narrow
-![Event Photos Carousel Narrow](/design-plan/narrow_event_photos_carousel.png)
+![Event Photos Carousel Narrow](/design-plan/narrow_event_photos_carousel.jpg)
 This is the narrow version of our event page of our website and it includes another potential interactivty element of a carousel; but, this time, it is of the events that have occured.
 
 Member Photos and Description Wide
-![Member Photos and Description Wide](/design-plan/wide_members.png)
+![Member Photos and Description Wide](/design-plan/wide_members.jpg)
 This is the wide veresion of our website of our about page of the e-board section. In the wide screen, the eboard members are displayed in a horizontal manner and the interactivity involves clicking each picture and having a blurb show up.
 
 Event Notification Pop-up Wide
-![Event Notification Pop-up Wide](/design-plan/wide_event_notification_popup.png)
+![Event Notification Pop-up Wide](/design-plan/wide_homepage.jpg)
 
 ### Final Design (Milestone 2)
 > Include the final sketches for each of your pages.
@@ -455,12 +456,44 @@ Event Notification Pop-up Wide
 
 **Narrow (Mobile) Design:**
 
-TODO: narrow sketches and explanation
+Homepage Page Narrow
+![Homepage Page Narrow](/design-plan/narrow_homepage_final.jpg)
+When the user opens the website, there will be a pop-up that shows an upcoming event. The user can click the close button to close the popup. The popup is contained inside a div where after the close button is pressed, a "hidden" class is added to the div. The div contains all the elements inside the square, including the close button.
+
+Membership Page Narrow
+![Membership Page Narrow](/design-plan/narrow_membership_final.jpg)
+
+
+Events Page Narrow
+![Events Page Narrow](/design-plan/narrow_events_final.jpg)
+
+Gallery Page Narrow
+![Gallery Page Narrow](/design-plan/narrow_gallery_final.jpg)
+
+About Page
+![About Page](/design-plan/narrow_about_final.jpg)
+When the user scrolls through the "About" page, there will be a section called "Meet the Board '22-23". Below that is a "card" that contains a eboard member photo and when it is clicked, the "card" flips over and displays the description of the eboard member. To implement this, there should be a div containing the eboard photo and a div containing the description. The description div should have the "hidden" class and when the image is clicked, the description div should remove the "hidden" class and the "hidden" class should be added to the image div. The opposite should happen if the visible div is clicked again.
 
 
 **Wide (Wide) Design:**
 
-TODO: wide sketches and explanation
+Homepage Wide
+![Homepage Wide](/design-plan/wide_homepage_final.jpg)
+In order to implement the "wide" design, the same code as the "narrow" design can be used. Having a pop-up on the homepage will increase awareness about the events that CSA hosts and can also increase the number of people that attend.
+
+Membership Page Wide
+![Membership Page Wide](/design-plan/wide_membership_final.jpg)
+This page answers common asked questions about joining a CSA membership. Each question will be boxed in a red background with white text to better fit the color theme.
+
+Events Page Wide
+![Events Page Wide](/design-plan/wide_events_final.jpg)
+
+Gallery Page Wide
+![Gallery Page Wide](/design-plan/wide_gallery_final.jpg)
+
+About Page Wide
+![About Page Wide](/design-plan/wide_about_final.jpg)
+This page will feature a description of CSA and their mission. If you further scroll, it will have a gallery-like display of the e.board members. Each member will be on a "card" that flips when you click on it and will have a short blurb of their major, year, and fun fact. As for implementating the interactivity feature, the code will remain the same as the "narrow" design.
 
 
 ### Design Rationale (Milestone 2)
