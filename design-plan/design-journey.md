@@ -241,6 +241,8 @@ CSA, MCSA, CSSA, HKSA, CVA, KSA, KASA, TSA, JUSA. I heard about many of these cl
 I generally go to Instagram to find these clubs because they always have a linktree within their Instagram bio which leads to all of their stuff and generally the Instagram page is the most updated with events and such.
 4. What kind of information regarding the club would you be interested in finding?
 I'm looking for upcoming events and how to participate. I am also interested in finding who is actually part of the club, particuarly if there are people I know within the clubs.
+n. What haven't I asked you today that you think would be valuable for me to know?
+Perhaps fams could be included on the website to show off more of the CSA community
 
 ### Goals (Milestone 2)
 > Analyze your audience's goals from your notes above.
@@ -362,10 +364,10 @@ Iteration 1: We have five different sections for the content that we plan to hav
 Iteration 2: This iteration is similar to iteration 1, except that we changed around the FAQ section for both general information and membership information. We decided to do this because the homepage is the first page that the user will land on; it is most likely that users would expect to find their general information on this page, and this information includes the FAQs.
 
 Card Iteration 1
-![alt text](/card_iteration_1.jpeg)
+![Card Iteration 1 Image](design-plan/card_iteration_1.jpeg)
 
 Card Iteration 2
-![alt text](/card_iteration_2.jpeg)
+![Card Iteration 2 Image](design-plan/card_iteration_2.jpeg)
 
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
