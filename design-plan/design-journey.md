@@ -465,8 +465,7 @@ TODO: wide sketches and explanation
 > Specifically, why does your content organization, navigation, and site design/layout meet the goals of your users?
 > How did you employ **design patterns** to improve the familiarity of the site for your audience?
 
-TODO: 1 paragraph
-
+The design is appropriate for our audience because it utilizes colors significant in Chinese culture, which relates to the content and overall objective of the website, to inform students about what CSA is and how they can get involved. The content organization makes sense as it allow users to navigate to each section without seeing overalpping information; each section is clearly defined in that it addresses a specific type of information that the user would want to find. This also ties in with navigation, as each page that can be navgiated to contains distinct information. We employed design patters as we want to keep the content organized centrally and users will use vertical scrolling to digest the content; and, the theme is consistent across all the pages. This improves the familiarity of the site for our audience as all the pages will employ the same style and theming, making it clear that users are still on the same website. In addition, vertical scrolling is a common feature of websites.
 
 ## Interactivity Rationale (Milestone 2)
 > Describe the purpose of your proposed interactivity.
@@ -487,9 +486,14 @@ TODO: interactivity plan
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
 
-TODO: client feedback
+- Client liked our interacivity design because they believed Eboard click-interaction was a fun/cute idea
+- They liked our modal idea because it will guarantee the user will be notified about the upcoming event and will increase attendance
+- Client appreciated our liberal use of pictures throughout the website because blocks of text would be boring
+- Client would like to see more use of color used in the website in addition to the images
+- Client liked how the website is responsive depending on user screensize.
 
-TODO: meeting minutes
+Time: ~10 minutes
+Notes: The event notification modal is a nice touch to ensure every visitor to the website knows about the upcoming CSA event. The website is very organized and structured. Neccesary text content is all included and easy to find. The website provides a lot of glimpes into what CSA is like through the vast amount of photos within the website. Color could be utilized more such as around certain text boxes to draw the audience's eyes. Clicking on eboard members for a short fun bio is a quirky addition to the website. The website is responsive now/passes the browser size drag test which the old website did not. Placement of content feels appropriate for the user.
 
 
 ## User Testing (Final Submission)
