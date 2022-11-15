@@ -1,0 +1,59 @@
+/* overall site styling */
+html {
+  font-family: serif;
+
+}
+
+/* nav bar */
+.menubar {
+  background-color: #db413b;
+  display: flex;
+  flex-direction: row;
+
+  top: 0px;
+
+  box-shadow: 4px 4px 8px 4px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+  margin: 15px;
+  padding: 15px;
+}
+
+.menubar ul {
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  padding: 0;
+}
+
+.menubar ul li {
+  display: flex;
+  flex-direction: row;
+  font-size: small;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.menubar ul li img {
+  width: 50px;
+}
+
+.menubar a:link {
+  text-decoration: none;
+  font-size: larger;
+  color: #ffffff;
+  background-color: #db413b;
+  display: inline;
+  padding: 10px;
+}
+
+.menubar a:hover {
+  color: #BF0000 !important;
+  background-color: #ffffff !important;
+  border-radius: 5px;
+  border-bottom: 0px;
+}
+
+
+/* wider screens */
+@media (min-width: 600px) {}
