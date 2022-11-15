@@ -71,13 +71,13 @@ Notes: CSA is a widely known cultural organization on Cornell's campus (and othe
 
 Current CSA Website and Screenshots:
 <https://www.csacornell.org/>
-![Welcome screenshot](./welcome.png)
-![Eboard screenshot](./eboard.png)
-![Gallery screenshot info](./gallery.png)
-![Links screenshot](./links.png)
-![Membership info screenshot](./membership.png)
-![About screenshot](./about.png)
-![Navigation screenshot](./nav.png)
+![Welcome screenshot](design-plan/welcome.png)
+![Eboard screenshot](design-plan/eboard.png)
+![Gallery screenshot info](design-plan/gallery.png)
+![Links screenshot](design-plan/links.png)
+![Membership info screenshot](design-plan/membership.png)
+![About screenshot](design-plan/about.png)
+![Navigation screenshot](design-plan/nav.png)
 
 The website we intend to build will keep the current color theme but will include more interactivity. We will also make the layout consistent for all the pages. For example, the membership page has a side menu bar while the other pages do not. One of the main goals of the users who visit this website is to learn about the events that CSA hosts. We will create an "Events" page that includes photos and information about the events so that is easier for the users to find this information. The client wanted a more aesthetically pleasing website and highlighted the importance of photos so we will disperse photos throughout the website more than there currently are.
 
@@ -287,19 +287,19 @@ Include two screenshots of the home page for each site: narrow and wide.
 1. <TODO: website url>u
 
     Harvard CSA Utopia FAQ Narrow
-    ![alt text](/harvard-csa-homepage_narrow.png)
+    ![alt text](design-plan/harvard-csa-homepage_narrow.png)
 
     ![TODO: wide screenshot description](TODO: wide screenshot path)
 
     Harvard CSA Utopia FAQ Page Wide
-    ![alt text](/harvardcsa_utopia_page.png)
+    ![alt text](design-plan/harvardcsa_utopia_page.png)
 
 2. <https://isucornell.com/>
 
     ![TODO: narrow screenshot description](TODO: narrow screenshot path)
 
     ISU Homepage Wide
-    ![alt text](/isu_homepage.png)
+    ![alt text](design-plan/isu_homepage.png)
 
 3. <https://upenncsa.com/>
 
@@ -428,21 +428,20 @@ Document your site's layout.
 > Include some of your interactivity ideas in your sketches.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
-TODO: layout exploration sketches + explanation
 Event Banner Narrow
-![alt text](/narrow_eventbanner.png)
+![Event Banner Narrow](design-plan/narrow_eventbanner.png)
 
 E.board Carousel Narrow
-![alt text](/narrow_eboard_carousel.png)
+![Eboard Carousel Narrow](design-plan/narrow_eboard_carousel.png)
 
 Event Photos Carousel Narrow
-![alt text](/narrow_event_photos_carousel.png)
+![Event Photos Carousel Narrow](design-plan/narrow_event_photos_carousel.png)
 
 Member Photos and Description Wide
-![alt text](/wide_members.png)
+![Member Photos and Description Wide](design-plan/wide_members.png)
 
 Event Notification Pop-up Wide
-![alt text](/wide_event_notification_popup.png)
+![Event Notification Pop-up Wide](design-plan/wide_event_notification_popup.png)
 
 ### Final Design (Milestone 2)
 > Include the final sketches for each of your pages.
