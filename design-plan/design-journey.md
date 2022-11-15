@@ -429,7 +429,6 @@ Document your site's layout.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
 TODO: layout exploration sketches + explanation
-
 Event Banner Narrow
 ![alt text](/narrow_eventbanner.png)
 
@@ -437,7 +436,7 @@ E.board Carousel Narrow
 ![alt text](/narrow_eboard_carousel.png)
 
 Event Photos Carousel Narrow
-![alt text](/narrow_events_photos_carousel.png)
+![alt text](/narrow_event_photos_carousel.png)
 
 Member Photos and Description Wide
 ![alt text](/wide_members.png)
