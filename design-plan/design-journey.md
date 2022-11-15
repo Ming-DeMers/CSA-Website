@@ -406,9 +406,12 @@ Document your site's layout.
 > Briefly explain idea each idea and provide a brief rationale for how the interactivity enhances the site's functionality for the audience.
 > Note: You may find it easier to sketch for brainstorming. That's fine too. Do whatever you need to do to explore your ideas.
 
-- TODO: interactivity idea 1
-- TODO: interactivity idea 2
-- TODO: ...
+
+- When picture of eboard member is clicked, reveal short/fun bio about the member
+- Slide show of CSA pictures
+- Slideshow for eboard member pictures
+- Hamburger menu for navigation
+-
 
 
 ### Layout Exploration (Milestone 2)
