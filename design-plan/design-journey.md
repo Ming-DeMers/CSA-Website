@@ -273,7 +273,7 @@ Goal 3: See current members of CSA to see if any mutuals are a part of the club
 > Briefly explain your site's audience.
 > Be specific and justify why this audience is a **cohesive** group with regard to your website.
 
-TODO: site's _cohesive_ audience
+The audience of our site will be Cornell Students interested in joining a social cultural club on campus
 
 
 ## Website Design Exploration (Milestone 2)
