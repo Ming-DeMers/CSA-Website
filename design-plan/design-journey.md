@@ -289,21 +289,22 @@ Include two screenshots of the home page for each site: narrow and wide.
     Harvard CSA Utopia FAQ Narrow
     ![Harvard Homepage Narrow](/design-plan/harvard-csa-homepage_narrow.png)
 
-
     Harvard CSA Utopia FAQ Page Wide
     ![Harvard Homepage Wide](/design-plan/harvardcsa_utopia_page.png)
 
 2. <https://isucornell.com/>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
-
     ISU Homepage Wide
     ![ISU Homepage Wide](/design-plan/isu_homepage.png)
 
+    ISU Homepage Narrow
+    ![ISU Homepage Narrow](/design-plan/ISUNarrow.png)
+
 3. <https://upenncsa.com/>
 
+    UPenn Wide
     ![UPenn CSA Wide](/design-plan/upenn-csa-wide.png)
-
+    Upenn Narrow
     ![UPenn CSA Narrow](/design-plan/upenn-csa-narrow.png)
 
 
