@@ -472,9 +472,14 @@ TODO: interactivity plan
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
 
-TODO: client feedback
+- Client liked our interacivity design because they believed Eboard click-interaction was a fun/cute idea
+- They liked our modal idea because it will guarantee the user will be notified about the upcoming event and will increase attendance
+- Client appreciated our liberal use of pictures throughout the website because blocks of text would be boring
+- Client would like to see more use of color used in the website in addition to the images
+- Client liked how the website is responsive depending on user screensize.
 
-TODO: meeting minutes
+Time: ~10 minutes
+Notes: The event notification modal is a nice touch to ensure every visitor to the website knows about the upcoming CSA event. The website is very organized and structured. Neccesary text content is all included and easy to find. The website provides a lot of glimpes into what CSA is like through the vast amount of photos within the website. Color could be utilized more such as around certain text boxes to draw the audience's eyes. Clicking on eboard members for a short fun bio is a quirky addition to the website. The website is responsive now/passes the browser size drag test which the old website did not. Placement of content feels appropriate for the user.
 
 
 ## User Testing (Final Submission)
