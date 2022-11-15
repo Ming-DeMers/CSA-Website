@@ -486,7 +486,7 @@ In order to implement the "wide" design, the same code as the "narrow" design ca
 
 Membership Page Wide
 ![Membership Page Wide](/design-plan/wide_membership_final.jpg)
-This page answers common asked questions about joining a CSA membership. Each question will be boxed in a red background with white text to better fit the color and cultural theme.
+This page answers commonly asked questions about joining a CSA membership. Each question will be boxed in a red background with white text to better fit the color and cultural theme.
 
 Events Page Wide
 ![Events Page Wide](/design-plan/wide_events_final.jpg)
