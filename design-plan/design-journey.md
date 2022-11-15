@@ -71,13 +71,13 @@ Notes: CSA is a widely known cultural organization on Cornell's campus (and othe
 
 Current CSA Website and Screenshots:
 <https://www.csacornell.org/>
-![Welcome screenshot](design-plan/welcome.png)
-![Eboard screenshot](design-plan/eboard.png)
-![Gallery screenshot info](design-plan/gallery.png)
-![Links screenshot](design-plan/links.png)
-![Membership info screenshot](design-plan/membership.png)
-![About screenshot](design-plan/about.png)
-![Navigation screenshot](design-plan/nav.png)
+![Welcome screenshot](/design-plan/welcome.png)
+![Eboard screenshot](/design-plan/eboard.png)
+![Gallery screenshot info](/design-plan/gallery.png)
+![Links screenshot](/design-plan/links.png)
+![Membership info screenshot](/design-plan/membership.png)
+![About screenshot](/design-plan/about.png)
+![Navigation screenshot](/design-plan/nav.png)
 
 The website we intend to build will keep the current color theme but will include more interactivity. We will also make the layout consistent for all the pages. For example, the membership page has a side menu bar while the other pages do not. One of the main goals of the users who visit this website is to learn about the events that CSA hosts. We will create an "Events" page that includes photos and information about the events so that is easier for the users to find this information. The client wanted a more aesthetically pleasing website and highlighted the importance of photos so we will disperse photos throughout the website more than there currently are.
 
@@ -284,22 +284,21 @@ Include two screenshots of the home page for each site: narrow and wide.
 
 **We'll refer to these are your "example websites."**
 
-1. <TODO: website url>u
+1. <https://www.harvardcsa.org/>
 
     Harvard CSA Utopia FAQ Narrow
-    ![alt text](design-plan/harvard-csa-homepage_narrow.png)
+    ![Harvard Homepage Narrow](/design-plan/harvard-csa-homepage_narrow.png)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
 
     Harvard CSA Utopia FAQ Page Wide
-    ![alt text](design-plan/harvardcsa_utopia_page.png)
+    ![Harvard Homepage Wide](/design-plan/harvardcsa_utopia_page.png)
 
 2. <https://isucornell.com/>
 
     ![TODO: narrow screenshot description](TODO: narrow screenshot path)
 
     ISU Homepage Wide
-    ![alt text](design-plan/isu_homepage.png)
+    ![ISU Homepage Wide](/design-plan/isu_homepage.png)
 
 3. <https://upenncsa.com/>
 
@@ -364,10 +363,10 @@ Iteration 1: We have five different sections for the content that we plan to hav
 Iteration 2: This iteration is similar to iteration 1, except that we changed around the FAQ section for both general information and membership information. We decided to do this because the homepage is the first page that the user will land on; it is most likely that users would expect to find their general information on this page, and this information includes the FAQs.
 
 Card Iteration 1
-![Card Iteration 1 Image](design-plan/card_iteration_1.jpeg)
+![Card Iteration 1 Image](/design-plan/card_iteration_1.jpeg)
 
 Card Iteration 2
-![Card Iteration 2 Image](design-plan/card_iteration_2.jpeg)
+![Card Iteration 2 Image](/design-plan/card_iteration_2.jpeg)
 
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
@@ -429,19 +428,19 @@ Document your site's layout.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
 Event Banner Narrow
-![Event Banner Narrow](design-plan/narrow_eventbanner.png)
+![Event Banner Narrow](/design-plan/narrow_eventbanner.png)
 
 E.board Carousel Narrow
-![Eboard Carousel Narrow](design-plan/narrow_eboard_carousel.png)
+![Eboard Carousel Narrow](/design-plan/narrow_eboard_carousel.png)
 
 Event Photos Carousel Narrow
-![Event Photos Carousel Narrow](design-plan/narrow_event_photos_carousel.png)
+![Event Photos Carousel Narrow](/design-plan/narrow_event_photos_carousel.png)
 
 Member Photos and Description Wide
-![Member Photos and Description Wide](design-plan/wide_members.png)
+![Member Photos and Description Wide](/design-plan/wide_members.png)
 
 Event Notification Pop-up Wide
-![Event Notification Pop-up Wide](design-plan/wide_event_notification_popup.png)
+![Event Notification Pop-up Wide](/design-plan/wide_event_notification_popup.png)
 
 ### Final Design (Milestone 2)
 > Include the final sketches for each of your pages.
