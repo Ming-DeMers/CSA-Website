@@ -394,8 +394,14 @@ This content is the right content for the site's audience because the text will 
 ## Visual Theme (Milestone 2)
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences. Note the theme you selected for your site and why it's appropriate for the audience and their goals.
 
-TODO: theme ideas, rationale, and final theme
+1) The first theme would involve using red and white; the text, the borders, and the sections would be in red against a white background. This preserves the current theme that the website has; it maintains consistency. The red is able to emphasize the content well as since there are only two colors, the viewers would be drawn to the vibrancy of the red. And, the elements would be rounded as it fits in with the current mooncake logo (which is round) of CSA.
 
+2) The second theme invovles using traditional Chinese colors: red, yellow, and white. These different colors each have a significance in Chinese culture as the red signifies prosperity, the yellow signifies wealth, and the white signifies purity and innocence. We plan on using softer shaped (i.e. rounded corners) as well as they would balance out the red color that may be a bit more vibrant to the eyes. The theme would keep the background white.
+
+3) The third theme invovles using the colors pink and yellow. These are just the lighter, less vibrant versions of the first theme. In using these colors, it would provide a much softer look to the website which would give off a light and airy energy for the users. But, because the colors are lighter, we would use sharp elements to balance out the softness of the colors.
+
+**selected theme: 2**
+We chose theme 2 because given that this organization is called Chinese Students Association, it would be fitting for the colors of the website to be of significance to Chinese culture. Though theme one also includes red and white, the addition of yellow will allow us to distinguish between more and less important information. This is appropriate to the audience and their goals because it would allow them to associate certain colors to Chinese culture, which sets them in the CSA mindset.
 
 ## Design (Milestone 2)
 
