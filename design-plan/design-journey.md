@@ -428,19 +428,22 @@ Document your site's layout.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
 Event Banner Narrow
-![Event Banner Narrow](/design-plan/narrow_eventbanner.png)
+![Event Banner Narrow](design-plan/narrow_eventbanner.png)
 
 E.board Carousel Narrow
-![Eboard Carousel Narrow](/design-plan/narrow_eboard_carousel.png)
+![Eboard Carousel Narrow](design-plan/narrow_eboard_carousel.png)
+This is the narrow version of the about page of our website and includes the eboard members as a gallery interactivity element of a carousel gallery of all the e-board memberes. The about page will include information about the organization and show who the current e-board members of the organization are. Again, the nav bar is at the top and the content is displayed as stacked on top of each other.
 
 Event Photos Carousel Narrow
-![Event Photos Carousel Narrow](/design-plan/narrow_event_photos_carousel.png)
+![Event Photos Carousel Narrow](design-plan/narrow_event_photos_carousel.png)
+This is the narrow version of our event page of our website and it includes another potential interactivty element of a carousel; but, this time, it is of the events that have occured.
 
 Member Photos and Description Wide
-![Member Photos and Description Wide](/design-plan/wide_members.png)
+![Member Photos and Description Wide](design-plan/wide_members.png)
+This is the wide veresion of our website of our about page of the e-board section. In the wide screen, the eboard members are displayed in a horizontal manner and the interactivity involves clicking each picture and having a blurb show up.
 
 Event Notification Pop-up Wide
-![Event Notification Pop-up Wide](/design-plan/wide_event_notification_popup.png)
+![Event Notification Pop-up Wide](design-plan/wide_event_notification_popup.png)
 
 ### Final Design (Milestone 2)
 > Include the final sketches for each of your pages.
