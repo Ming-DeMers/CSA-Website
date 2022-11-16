@@ -343,7 +343,7 @@ Plan your site's content.
 - Event information text
 - Photos of Eboard
 - Photos of events/people at events
-- Images of CSA logoo
+- Images of CSA logo
 - FAQ test
 - Membership information text
 
