@@ -151,36 +151,37 @@ n. What haven't I asked you today that you think would be valuable for me to kno
 
 Keri Y. is a Japanese-Chinese American and she has lived in Upstate NY her whole life. She went to a predominately white school district and she was exposed to very little diversity during this time.
 
-2. What cultural clubs have you heard about on campus at Cornell? How did you hear about these clubs?
+2.What cultural clubs have you heard about on campus at Cornell? How did you hear about these clubs?
 
 "Csa, JUSA, kasa, ksa. I hear them from social media platforms, specifically Instagram. Also, a lot of times it spreads by word of mouth as my friens also talked about them near the beginning of the school year."
 
-3. When you're looking for information about these clubs where would you look?
+3.When you're looking for information about these clubs where would you look?
 
 "I would also go on Instagram for information regarding these organizations because I assume that these orgs have an Instagram page that stays up to date either with their LinkTree or posts regarding information and upcoming events."
 
-4. What kind of information regarding the club would you be interested in finding?
+4.What kind of information regarding the club would you be interested in finding?
 
 "Information such as general meetings and events. "
 
-5. What haven't I asked you today that you think would be valuable for me to know?
+5.What haven't I asked you today that you think would be valuable for me to know?
 
 N/A
 
 **Interviewee 2: Luke Trautwein**
+
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
 "My name is Luke Trautwein and I'm a current sophomore studying economics in the college of arts and sciences. I am currently not very involved on campus, but I do enjoy spending my time rock climbing and learning new skills."
 
-2. What cultural clubs have you heard about on campus at Cornell? How did you hear about these clubs?
+2.What cultural clubs have you heard about on campus at Cornell? How did you hear about these clubs?
 
 "I have heard of CSA, but that's about it. It's probably because most of my friends are Chinese and they talk a lot about the club and the social events that they have."
 
-3. When you're looking for information about these clubs where would you look?
+3.When you're looking for information about these clubs where would you look?
 
 "I usually find out about clubs through Instagram or through promotional flyers that are hung up around the school. However, if I wanted to to actually find out information about a club that I heard about, I would go on Instagram."
 
-4. What kind of information regarding the club would you be interested in finding?
+4.What kind of information regarding the club would you be interested in finding?
 
 "I would be interested about what the club is about, who runs the club, what activities they do, what general student commitment looks like, and how often the club meets."
 
@@ -212,15 +213,15 @@ N/A
 
 "nancy, second year info sci major at cornell"
 
-1. What cultural clubs have you heard about on campus at Cornell? How did you hear about these clubs?
+2.What cultural clubs have you heard about on campus at Cornell? How did you hear about these clubs?
 
 "csa, cva, kasa, hksa. thru word of mouth mostly, and instagram repost stores"
 
-2. When you're looking for information about these clubs where would you look?
+3.When you're looking for information about these clubs where would you look?
 
 "i usually go on instagram for information"
 
-3. What kind of information regarding the club would you be interested in finding?
+4.What kind of information regarding the club would you be interested in finding?
 
 "how to join, the events they host, images of their past events"
 
@@ -264,7 +265,8 @@ Goal 2: Find out what events CSA is organizing/has organized in the past
 Goal 3: See current members of CSA to see if any mutuals are a part of the club
 
 **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - Have a gallery of member pictures for eboard and photos of people who attended CSA events and photos of fams within CSA.
+Have a gallery of member pictures for eboard and photos of people who attended CSA events and photos of fams within CSA.
+
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
   - By having a gallery of images visitors to the website can see snippets of CSA members, not only will the gallery show users the fun atmosphere of events but they may also see a mutual friend in the club and this will encourage them to be more likely to join CSA.
 
