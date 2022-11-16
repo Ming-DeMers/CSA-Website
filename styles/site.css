@@ -20,7 +20,6 @@ button:hover {
 }
 
 .button:active {
-  background-color: #3e8e41;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
@@ -33,26 +32,35 @@ button:hover {
   padding: 15px;
 }
 
+img {
+  width: 50%;
+  display: block;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 5px;
+  box-shadow: 4px 4px 8px 1px rgba(0, 0, 0, 0.2);
+
+}
+
 /* nav bar */
 .menubar {
   background-color: #db413b;
   display: flex;
   flex-direction: row;
-
   top: 0px;
-
   box-shadow: 4px 4px 8px 4px rgba(0, 0, 0, 0.2);
   transition: 0.3s;
   border-radius: 5px;
-  margin: 15px;
-  padding: 15px;
+  margin: 15px !important;
+  padding: 15px !important;
 }
 
 .menubar ul {
   display: flex;
   flex-direction: row;
-  margin: 0;
-  padding: 0;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 .menubar ul li {
@@ -60,11 +68,14 @@ button:hover {
   flex-direction: row;
   font-size: small;
   flex-wrap: wrap;
-  margin: auto;
+  margin: auto !important;
 }
 
 .menubar ul li img {
   width: 50px;
+  margin: 0px;
+  padding: 0px;
+  box-shadow: 0px 0px 8px 4px rgba(0, 0, 0, 0);
 }
 
 .menubar a:link {
@@ -142,13 +153,56 @@ button:hover {
 }
 
 /* eboard cards */
-.card {
-  border: 5px solid #fba333;
-
+.eboard {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
+.card {
+  box-shadow: 4px 4px 8px 4px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+  text-align: center;
+  padding: 10px;
+  margin: 25px;
+  width: 175px;
+  transition: all 0.9s ease;
+  font-size: small;
+}
+
+.card img {
+  margin: auto;
+  margin-top: 20px;
+  box-shadow: 0px 0px 0px 0px rgb(0, 0, 0);
+}
+
+.card:hover {
+  opacity: 60%;
+  cursor: pointer;
+}
+
+.card-back {
+  transform: rotateY(180deg);
+}
+
+.card-back p {
+  text-align: left;
+}
+
+
+.flip-card {
+  transform: rotateY(180deg);
+}
+
+/* visual toggle classes */
+
 .hidden {
-  display:none;
+  display: none;
+}
+
+.flip-card {
+  transform: rotateY(180deg);
 }
 
 /* wider screens */
