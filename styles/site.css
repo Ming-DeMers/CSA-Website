@@ -233,4 +233,20 @@ img {
     justify-content:right
   }
 
+  .blurb {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .blurb .body {
+    display: flex;
+    flex-direction: row;
+    padding-left: 15px;
+  }
+  
+  .blurb img {
+    width: 100px;
+    margin: 20px;
+  }
+
 }
