@@ -114,6 +114,7 @@ img {
   background-color: #db413b;
 }
 
+
 /* popups */
 .popup {
   display: flex;
@@ -230,6 +231,5 @@ img {
   .menubar {
     justify-content:right
   }
-
 
 }
