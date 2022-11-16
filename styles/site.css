@@ -1,7 +1,36 @@
 /* overall site styling */
 html {
-  font-family: serif;
+  font-family: sans-serif;
+}
 
+h2 {
+  color: #a01a1a;
+}
+
+button {
+  background-color: #fba333;
+  color: #ffffff;
+  border: 0px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+button:hover {
+  background-color: rgb(219, 155, 59);
+}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.content {
+  box-shadow: 4px 4px 8px 4px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+  margin: 15px;
+  padding: 15px;
 }
 
 /* nav bar */
@@ -69,13 +98,16 @@ html {
 }
 
 /* FAQs */
-#faqs .qa {
+.content li {
   display: flex;
   flex-direction: column;
-  border: 1px solid #fba333;
+  border: 2.5px solid #db413b;
   border-radius: 5px;
-  padding: 5px;
-  margin: 5px;
+  padding: 15px;
+  margin-top: 30px;
+  margin-right: 35px;
+  margin-left: 0px;
+  box-shadow: 4px 4px 8px 4px rgba(0, 0, 0, 0.2);
 
 }
 
@@ -103,6 +135,7 @@ html {
   display: flex;
 
 }
+
 .blurb img {
   width: 100px;
   margin: 20px;
