@@ -129,6 +129,7 @@ img {
   right: 5%;
 
 }
+
 .popup button {
   /* would like to resize and right justify */
 }
@@ -235,7 +236,7 @@ img {
 @media (min-width: 600px) {
 
   .menubar {
-    justify-content: center;
+    justify-content: right;
   }
 
   .blurb {
@@ -254,7 +255,7 @@ img {
     margin: 20px;
   }
 
-  .popup{
+  .popup {
     left: 35%;
     right: 35%
   }
