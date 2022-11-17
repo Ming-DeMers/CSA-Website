@@ -259,4 +259,7 @@ img {
     right: 35%
   }
 
+  .menubar ul li {
+    font-size: medium;
+  }
 }
