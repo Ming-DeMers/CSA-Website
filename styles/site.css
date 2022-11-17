@@ -231,20 +231,20 @@ img {
 @media (min-width: 600px) {
 
   .menubar {
-    justify-content:right
+    justify-content: center;
   }
 
   .blurb {
     display: flex;
     flex-direction: row;
   }
-  
+
   .blurb .body {
     display: flex;
     flex-direction: row;
     padding-left: 15px;
   }
-  
+
   .blurb img {
     width: 100px;
     margin: 20px;
