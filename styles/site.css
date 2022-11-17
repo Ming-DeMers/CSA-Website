@@ -122,9 +122,13 @@ img {
   border: 2px solid #fba333;
   border-radius: 5px;
   padding: 15px;
-  z-index: 10;
-}
+  z-index: 1;
+  position: absolute;
+  background-color: white;
+  left: 5%;
+  right: 5%;
 
+}
 .popup button {
   /* would like to resize and right justify */
 }
@@ -250,4 +254,12 @@ img {
     margin: 20px;
   }
 
+  .popup{
+    left: 35%;
+    right: 35%
+  }
+
+  .menubar ul li {
+    font-size: medium;
+  }
 }
