@@ -129,6 +129,7 @@ img {
   right: 5%;
 
 }
+
 .popup button {
   /* would like to resize and right justify */
 }
@@ -156,8 +157,6 @@ img {
 }
 
 .picture-galley img {
-  width: 210px;
-  height: 210px;
   margin: 20px;
 }
 
@@ -221,6 +220,25 @@ img {
   transform: rotateY(180deg);
 }
 
+/* picture gallery */
+
+.picture-galley {
+  margin-bottom: 50px;
+}
+
+.picture-galley img {
+  width: 100%;
+  margin: 25px;
+  transition: 500ms;
+}
+
+.picture-galley img:hover {
+  width: 105%;
+  opacity: 50%;
+  cursor: pointer;
+}
+
+
 /* visual toggle classes */
 
 .hidden {
@@ -250,11 +268,10 @@ img {
   }
 
   .blurb img {
-    width: 100px;
     margin: 20px;
   }
 
-  .popup{
+  .popup {
     left: 35%;
     right: 35%
   }
