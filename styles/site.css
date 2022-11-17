@@ -223,17 +223,18 @@ img {
 /* picture gallery */
 
 .picture-galley {
-  margin-bottom: 50px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .picture-galley img {
-  width: 100%;
-  margin: 25px;
+  width: 300px;
   transition: 500ms;
 }
 
 .picture-galley img:hover {
-  width: 105%;
+  width: 310px;
   opacity: 50%;
   cursor: pointer;
 }
