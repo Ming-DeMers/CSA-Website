@@ -118,7 +118,8 @@ img {
   z-index: 1;
   position: absolute;
   /*center the popup*/
-  left: 50%;
+  left: 20%;
+  right: 20%;
   background-color: #ffffff;
 
 }
