@@ -246,6 +246,13 @@ img {
 /* wider screens */
 @media (min-width: 600px) {
 
+  .content {
+    padding-left: 250px !important;
+    padding-right: 250px !important;
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+  }
+
   .menubar {
     justify-content: center;
   }
@@ -270,22 +277,4 @@ img {
     right: 35%
   }
 
-  .menubar ul li {
-    font-size: medium;
-  }
-
-  .welcome p {
-    font-size: 20px;
-  }
-
-  .welcome h2 {
-    font-size: 30px;
-  }
-
-  .content {
-    padding-left: 150px !important;
-    padding-right: 150px !important;
-    padding-top: 50px !important;
-    padding-bottom: 50px !important;
-  }
 }
