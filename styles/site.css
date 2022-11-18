@@ -278,4 +278,15 @@ img {
     right: 35%
   }
 
+  .welcome p {
+    font-size: 20px;
+  }
+
+  .welcome h2 {
+    font-size: 25px;
+  }
+
+  .body p {
+    font-size: 20px;
+  }
 }
