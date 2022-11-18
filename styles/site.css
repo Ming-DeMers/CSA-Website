@@ -127,7 +127,6 @@ img {
   position: absolute;
   /*center the popup*/
   left: 50%;
-  top: 50%;
   background-color: #ffffff;
 
 }
@@ -282,4 +281,13 @@ img {
   .menubar ul li {
     font-size: medium;
   }
+
+  .welcome p {
+    font-size: 20px;
+  }
+
+  .welcome h2 {
+    font-size: 30px;
+  }
+
 }
