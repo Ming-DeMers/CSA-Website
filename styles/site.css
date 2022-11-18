@@ -3,17 +3,9 @@ html {
   font-family: sans-serif;
 }
 
-.content {
-  padding-left: 150px !important;
-  padding-right: 150px !important;
-  padding-top: 50px !important;
-  padding-bottom: 50px !important;
-}
-
 h2 {
   color: #a01a1a;
 }
-
 
 button {
   display: inline-block;
@@ -290,4 +282,10 @@ img {
     font-size: 30px;
   }
 
+  .content {
+    padding-left: 150px !important;
+    padding-right: 150px !important;
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+  }
 }
