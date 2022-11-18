@@ -51,6 +51,13 @@ img {
 }
 
 /* nav bar */
+html {
+  margin-right: 150px;
+  margin-left: 150px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
 .menubar {
   background-color: #db413b;
   display: flex;
