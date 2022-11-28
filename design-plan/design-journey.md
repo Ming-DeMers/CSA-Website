@@ -523,7 +523,7 @@ There will be two interactivity elements; the modal and the flip. The purpose of
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
 When website is first loaded onto the homepage. Modal alert of upcoming CSA event pops up and prompts the user to click "I will be there!" to dismiss the modal.
-html: <button> <p> <h1> <div>
+html: button, p , h1, div.
 css: .hidden class {display: none;}, cursor:hover;, cursor:pointer;, background color changes when hovered
 Pseudocode:
  when the user arrives on the website homepage {
@@ -537,7 +537,7 @@ Initial State: the initial state of the modal will be that it is not displayed a
 
 
 Flip picture to biography of CSA Eboard. When picture of CSA Eboard member is clicked their image flips and reveals a short fun biography of themselves
-html: <image> <p> <h1> <div>
+html: image, p, h1, div.
 css: cursor:hover;, cursor:pointer;
 Pseudocode:
  when user clicks on picture{

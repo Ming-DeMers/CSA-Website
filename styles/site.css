@@ -138,7 +138,10 @@ img {
   margin-right: 35px;
   margin-left: 0px;
   box-shadow: 4px 4px 8px 4px rgba(0, 0, 0, 0.2);
+}
 
+.inside li{
+  list-style: disc;
 }
 
 /* picture gallery */
@@ -248,6 +251,17 @@ img {
 .flip-card {
   transform: rotateY(180deg);
 }
+
+/* membership */
+.membership_title{
+  font-weight: 600;
+  color: #ad0c0c;
+}
+
+ul.membership {
+  list-style-position: outside;
+}
+
 
 /* wider screens */
 @media (min-width: 600px) {
