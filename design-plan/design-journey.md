@@ -571,11 +571,9 @@ Notes: The event notification modal is a nice touch to ensure every visitor to t
 
 1. You are a student that wants to join CSA and would like to find out if there are fees associated with joining. Find this information.
 
-2. TODO: task 2
+2. After attending a sodial event for CSA, you are curious to learn more about the eboard members, specifically Ben Wang. Find out this information.
 
-3. TODO: task 3
-
-TODO: add more tasks if necessary (a good rule of thumb is a task for every user goal)
+3. You are a new member of CSA and you are ecstatic to go to the next upcoming event. Find out what this event is and when it is.
 
 
 ### Participant 1 (Final Submission)
