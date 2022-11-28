@@ -569,11 +569,11 @@ Notes: The event notification modal is a nice touch to ensure every visitor to t
 > These must be actual user testing tasks.
 > **Tasks are not questions!**
 
-1. TODO:
+1. You are a student that wants to join CSA and would like to find out if there are fees associated with joining. Find this information.
 
-2. TODO: task 2
+2. After attending a social event for CSA, you are curious to learn more about the E.board members, specifically Ben Wang. Find out this information.
 
-3. TODO: task 3
+3. You are a new member of CSA and you are ecstatic to go to the next upcoming event. Find out what this event is and when it is.
 
 TODO: add more tasks if necessary (a good rule of thumb is a task for every user goal)
 
@@ -596,8 +596,7 @@ TODO: add more tasks if necessary (a good rule of thumb is a task for every user
 ### Participant 1 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-
-
+The user quickly
 
 ### Participant 2 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
