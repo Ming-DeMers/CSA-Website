@@ -643,6 +643,53 @@ TODO: participant user test notes
 TODO: add more participants if necessary
 
 
+### Participant 4 (Final Submission)
+> Using your notes from above, describe your user by answering the questions below.
+
+1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
+
+    TODO: tell us about the participant
+
+
+2. Does the user belong to your audience of the site?
+
+    > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
+
+    TODO: (Yes / No)
+
+
+### Participant 4 -- Testing Notes (Final Submission)
+> When conducting user testing, you should take notes during the test.
+
+TODO: participant user test notes
+
+
+TODO: add more participants if necessary
+
+
+### Participant 5 (Final Submission)
+> Using your notes from above, describe your user by answering the questions below.
+
+1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
+
+    TODO: tell us about the participant
+
+
+2. Does the user belong to your audience of the site?
+
+    > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
+
+    TODO: (Yes / No)
+
+
+### Participant 5 -- Testing Notes (Final Submission)
+> When conducting user testing, you should take notes during the test.
+
+TODO: participant user test notes
+
+
+TODO: add more participants if necessary
+
 ## Website Revision Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
