@@ -523,7 +523,7 @@ There will be two interactivity elements; the modal and the flip. The purpose of
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
 When website is first loaded onto the homepage. Modal alert of upcoming CSA event pops up and prompts the user to click "I will be there!" to dismiss the modal.
-html: <button> <p> <h1> <div>
+html: button, p , h1, div.
 css: .hidden class {display: none;}, cursor:hover;, cursor:pointer;, background color changes when hovered
 Pseudocode:
  when the user arrives on the website homepage {
@@ -537,7 +537,7 @@ Initial State: the initial state of the modal will be that it is not displayed a
 
 
 Flip picture to biography of CSA Eboard. When picture of CSA Eboard member is clicked their image flips and reveals a short fun biography of themselves
-html: <image> <p> <h1> <div>
+html: image, p, h1, div.
 css: cursor:hover;, cursor:pointer;
 Pseudocode:
  when user clicks on picture{
@@ -569,11 +569,11 @@ Notes: The event notification modal is a nice touch to ensure every visitor to t
 > These must be actual user testing tasks.
 > **Tasks are not questions!**
 
-1. TODO: task 1
+1. You are a student that wants to join CSA and would like to find out if there are fees associated with joining. Find this information.
 
-2. TODO: task 2
+2. After attending a social event for CSA, you are curious to learn more about the E.board members, specifically Ben Wang. Find out this information.
 
-3. TODO: task 3
+3. You are a new member of CSA and you are ecstatic to go to the next upcoming event. Find out what this event is and when it is.
 
 TODO: add more tasks if necessary (a good rule of thumb is a task for every user goal)
 
@@ -583,21 +583,20 @@ TODO: add more tasks if necessary (a good rule of thumb is a task for every user
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
+    The user is a computer science major at Cornell. He is looking to join CSA and wants to learn more about the club.
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    Yes
 
 
 ### Participant 1 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
-
+The user quickly
 
 ### Participant 2 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
@@ -655,11 +654,11 @@ TODO: explain the revisions to your website from user testing
 ### Collaborators (Final Submission)
 > List any persons you collaborated with on this project.
 
-TODO: list your collaborators
+Ming DeMers, Sabrina Lin, Winston Zhuang, Emily Kim, Xianyi Li
 
 
 ### Reference Resources (Final Submission)
 > Please cite any external resources you referenced in the creation of your project.
 > (i.e. W3Schools, StackOverflow, Mozilla, etc.)
 
-TODO: list reference resources
+Mozilla Reference Documentation
