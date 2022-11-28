@@ -121,7 +121,6 @@ img {
   left: 20%;
   right: 20%;
   background-color: #ffffff;
-
 }
 
 .popup img {
@@ -129,19 +128,23 @@ img {
 }
 
 /* FAQs */
-.content li {
+.content ul {
   display: flex;
   flex-direction: column;
   border-radius: 5px;
   padding: 15px;
-  margin-top: 30px;
-  margin-right: 35px;
-  margin-left: 0px;
+  margin-top: 20px;
+  margin-right: 30px;
+  margin-left: 30px;
+  margin-bottom: 30px;
   box-shadow: 4px 4px 8px 4px rgba(0, 0, 0, 0.2);
+  list-style: none;
 }
 
-.inside li{
+.inside li {
   list-style: disc;
+  margin-left: 15px;
+  line-height: 1.5;
 }
 
 /* picture gallery */
@@ -245,7 +248,7 @@ img {
 /* visual toggle classes */
 
 .hidden {
-  display: none;
+  display: none !important;
 }
 
 .flip-card {
@@ -253,7 +256,7 @@ img {
 }
 
 /* membership */
-.membership_title{
+.membership_title {
   font-weight: 600;
   color: #ad0c0c;
 }
@@ -294,23 +297,25 @@ ul.membership {
 
   .popup {
     left: 35%;
-    right: 35%
+    right: 35%;
   }
 
-  .welcome p {
-    font-size: 20px;
-  }
 
-  .welcome h2 {
-    font-size: 25px;
-  }
+}
 
-  .body p {
-    font-size: 20px;
-  }
+.welcome p {
+  font-size: 20px;
+}
 
-  .card {
-    margin-left: 1%;
-    margin-right: 1%;
-  }
+.welcome h2 {
+  font-size: 25px;
+}
+
+.body p {
+  font-size: 20px;
+}
+
+.card {
+  margin-left: 1%;
+  margin-right: 1%;
 }

@@ -571,9 +571,11 @@ Notes: The event notification modal is a nice touch to ensure every visitor to t
 
 1. You are a student that wants to join CSA and would like to find out if there are fees associated with joining. Find this information.
 
-2. After attending a sodial event for CSA, you are curious to learn more about the eboard members, specifically Ben Wang. Find out this information.
+2. TODO: task 2
 
-3. You are a new member of CSA and you are ecstatic to go to the next upcoming event. Find out what this event is and when it is.
+3. TODO: task 3
+
+TODO: add more tasks if necessary (a good rule of thumb is a task for every user goal)
 
 
 ### Participant 1 (Final Submission)
@@ -594,8 +596,7 @@ Notes: The event notification modal is a nice touch to ensure every visitor to t
 ### Participant 1 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-
-
+The user quickly found that the membership fee is $15 a year for new members. He went to the "Membership" page on the navigation bar and found it under "How do I become a member of CSA?". For the second task, the user went to the "About" page. From there, he clicked on "Ben Wang" and found out that [INSERT]. He mentioned that because the cards had shadows and the images turned slightly white when hovered over, it provided good affordance that it was clickable. For the last task, the user easily found the information from a pop-up on the homepage. It is a "Midnight Dim Sum" event on November 19 from 6pm to 10pm at Duffield Hall. He also found the information when he clicked on the "Events" page and it was under the "Upcoming Events" subtitle.
 
 ### Participant 2 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
@@ -641,6 +642,60 @@ TODO: participant user test notes
 
 TODO: add more participants if necessary
 
+
+### Participant 4 (Final Submission)
+> Using your notes from above, describe your user by answering the questions below.
+
+1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
+
+    TODO: tell us about the participant
+
+
+2. Does the user belong to your audience of the site?
+
+    > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
+
+    TODO: (Yes / No)
+
+
+### Participant 4 -- Testing Notes (Final Submission)
+> When conducting user testing, you should take notes during the test.
+
+TODO: participant user test notes
+
+
+TODO: add more participants if necessary
+
+
+### Participant 5 (Final Submission)
+> Using your notes from above, describe your user by answering the questions below.
+
+1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
+
+    The user is a Freshmen CS major in the College of Engineering. The user is from Long Island, New York. She loves dancing and is part of a Cornell dance team.
+
+
+2. Does the user belong to your audience of the site?
+
+    > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
+
+    Yes
+
+
+### Participant 5 -- Testing Notes (Final Submission)
+> When conducting user testing, you should take notes during the test.
+
+1. You are a student that wants to join CSA and would like to find out if there are fees associated with joining. Find this information.
+
+Notes: User quickly navigates to the membership page and finds the FAQ section. They click onto the question "How do I become a member of CSA?" and find that there are two membership types, per year which costs $15 for new members and $10 for returning, and lifetime which costs $30.
+
+2. After attending a social event for CSA, you are curious to learn more about the E.board members, specifically Ben Wang. Find out this information.
+
+Notes: The user navigates to the About page and scrolls down to the EBoard section of the page. User takes a moment before clicking on the image of Ben Wang, perhaps it was not intuitive that the images could be clicked for further information.
+
+3. You are a new member of CSA and you are ecstatic to go to the next upcoming event. Find out what this event is and when it is.
+
+Notes: The user clicks the Events page to find information regarding the next upcoming event. User correctly identifies Midngiht DimSum as the next CSA event which will occur November 19th, 6-10PM in Duffield Hall.
 
 ## Website Revision Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
