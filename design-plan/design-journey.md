@@ -569,7 +569,7 @@ Notes: The event notification modal is a nice touch to ensure every visitor to t
 > These must be actual user testing tasks.
 > **Tasks are not questions!**
 
-1. TODO: task 1
+1. You are a student that wants to join CSA and would like to find out if there are fees associated with joining. Find this information.
 
 2. After attending a sodial event for CSA, you are curious to learn more about the eboard members, specifically Ben Wang. Find out this information.
 
