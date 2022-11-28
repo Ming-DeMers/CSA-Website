@@ -672,7 +672,7 @@ TODO: add more participants if necessary
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
+    The fifth user is a senior Information Science Student from Cornell University College of engreeing.
 
 
 2. Does the user belong to your audience of the site?
