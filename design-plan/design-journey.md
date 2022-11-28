@@ -596,7 +596,7 @@ TODO: add more tasks if necessary (a good rule of thumb is a task for every user
 ### Participant 1 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-The user quickly
+The user quickly found that the membership fee is $15 a year for new members. He went to the "Membership" page on the navigation bar and found it under "How do I become a member of CSA?". For the second task, the user went to the "About" page. From there, he clicked on "Ben Wang" and found out that [INSERT]. He mentioned that because the cards had shadows and the images turned slightly white when hovered over, it provided good affordance that it was clickable. For the last task, the user easily found the information from a pop-up on the homepage. It is a "Midnight Dim Sum" event on November 19 from 6pm to 10pm at Duffield Hall. He also found the information when he clicked on the "Events" page and it was under the "Upcoming Events" subtitle.
 
 ### Participant 2 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
