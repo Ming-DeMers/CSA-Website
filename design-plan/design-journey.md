@@ -569,11 +569,13 @@ Notes: The event notification modal is a nice touch to ensure every visitor to t
 > These must be actual user testing tasks.
 > **Tasks are not questions!**
 
-1. You are a student that wants to join CSA and would like to find out if there are fees associated with joining. Find this information.
+1. TODO: task 1
 
-2. After attending a sodial event for CSA, you are curious to learn more about the eboard members, specifically Ben Wang. Find out this information.
+2. TODO: task 2
 
-3. You are a new member of CSA and you are ecstatic to go to the next upcoming event. Find out what this event is and when it is.
+3. TODO: task 3
+
+TODO: add more tasks if necessary (a good rule of thumb is a task for every user goal)
 
 
 ### Participant 1 (Final Submission)
@@ -581,20 +583,21 @@ Notes: The event notification modal is a nice touch to ensure every visitor to t
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    The user is a computer science major at Cornell. He is looking to join CSA and wants to learn more about the club.
+    TODO: tell us about the participant
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    Yes
+    TODO: (Yes / No)
 
 
 ### Participant 1 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-The user quickly found that the membership fee is $15 a year for new members. He went to the "Membership" page on the navigation bar and found it under "How do I become a member of CSA?". For the second task, the user went to the "About" page. From there, he clicked on "Ben Wang" and found out that [INSERT]. He mentioned that because the cards had shadows and the images turned slightly white when hovered over, it provided good affordance that it was clickable. For the last task, the user easily found the information from a pop-up on the homepage. It is a "Midnight Dim Sum" event on November 19 from 6pm to 10pm at Duffield Hall. He also found the information when he clicked on the "Events" page and it was under the "Upcoming Events" subtitle.
+TODO: participant user test notes
+
 
 ### Participant 2 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
@@ -620,26 +623,33 @@ TODO: participant user test notes
 ### Participant 3 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
+
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
-
+The user is a CS grad student from NYC. They have little information about CSA, nor was an undergrad at Cornell. They have worked in web design before.
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    No. Their perspective will gives us an unbiased and largely uninterested view. They have skills in in web design, and it will be useful for their input on the design and narrative of the website.
+
 
 
 ### Participant 3 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+1. You are a student that wants to join CSA and would like to find out if there are fees associated with joining. Find this information.
 
+Notes: User quickly finds the membership page and looks through the FAQs to find the fees associated. They comment that they do not like the box-in-a-box-in-a-box design.
 
-TODO: add more participants if necessary
+2. After attending a social event for CSA, you are curious to learn more about the E.board members, specifically Ben Wang. Find out this information.
 
+User looks through the membership page but swithces to about to find e-board. Finds Ben Wang and clicks on the card. They are impressed by the card flip and think it enhnaces the website.
+
+3. You are a new member of CSA and you are ecstatic to go to the next upcoming event. Find out what this event is and when it is.
+
+User goes to Events page and quickly finds the upcoming events. No other comments.
 
 ### Participant 4 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
@@ -706,11 +716,11 @@ TODO: explain the revisions to your website from user testing
 ### Collaborators (Final Submission)
 > List any persons you collaborated with on this project.
 
-Ming DeMers, Sabrina Lin, Winston Zhuang, Emily Kim, Xianyi Li
+TODO: list your collaborators
 
 
 ### Reference Resources (Final Submission)
 > Please cite any external resources you referenced in the creation of your project.
 > (i.e. W3Schools, StackOverflow, Mozilla, etc.)
 
-Mozilla Reference Documentation
+TODO: list reference resources
