@@ -719,7 +719,7 @@ Notes: The user clicks the Events page to find information regarding the next up
 ## Website Revision Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
-We improved visual design by removing certain boxes in other boxes, to simplify layout. We also attempted to fix the pop up so it would only show once, but using cookies with jquery is outside of the scope of this class and Ming couldn't figure it out :(. Compacted/added interactivity into the FAQ section to reduce clutter for the user.
+We improved visual design by removing certain boxes in other boxes, to simplify layout. We also attempted to fix the pop up so it would only show once, but using cookies with jquery is outside of the scope of this class and Ming couldn't figure it out :(. However, the biggest imlementation from user testing was the accordion style interactivity, which we implemented because multiple users have noted that the information on the FAQ page was slightly overwhelming as there is a lot of content. They noted that if there was an easier way to distinguish the question from the answer, it would help the process if finding information to specific questions that they have.
 
 Otherwise, we left the design as is, as all users, and the milestone 2 grader, thought the design was intuitve and easy to use.
 
