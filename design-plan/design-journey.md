@@ -708,19 +708,18 @@ Notes: The user clicks the Events page to find information regarding the next up
 ## Website Revision Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
-TODO: explain the revisions to your website from user testing
+We improved visual design by removing certain boxes in other boxes, to simplify layout. We also attempted to fix the pop up so it would only show once, but using cookies with jquery is outside of the scope of this class and Ming couldn't figure it out :(.
 
-
+Otherwise, we left the design as is, as all users, and the milestone 2 grader, thought the design was intuitve and easy to use.
 ## Grading (Final Submission)
 
 ### Collaborators (Final Submission)
 > List any persons you collaborated with on this project.
 
-TODO: list your collaborators
-
+CSA Members: Arthur Sun, Tiffany Lee.
 
 ### Reference Resources (Final Submission)
 > Please cite any external resources you referenced in the creation of your project.
 > (i.e. W3Schools, StackOverflow, Mozilla, etc.)
 
-TODO: list reference resources
+W3Schools, StackOverflow, Mozilla.
