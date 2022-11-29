@@ -670,7 +670,7 @@ User goes to Events page and quickly finds the upcoming events. No other comment
 
 The student saw the modal first and found it to be informative as it told him about the details of the upcoming CSA event that he had not known about before. After clicking off, he sees the navigation bar and is hovered over "about," but realizes that the information is likely under membership. He scrolls down and ends up finding the section about dues.
 
-Note: he notes that there is a lot of information and it was slightly hard to find.
+Note: he notes that there is a lot of information and it was slightly hard to find. revision potential: add an accordian style interactivity.
 
 2. After attending a sodial event for CSA, you are curious to learn more about the eboard members, specifically Ben Wang. Find out this information.
 
