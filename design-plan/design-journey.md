@@ -465,7 +465,8 @@ When the user opens the website, there will be a pop-up that shows an upcoming e
 
 Membership Page Narrow
 ![Membership Page Narrow](/design-plan/narrow_membership_final.jpg)
-This page will have frequently asked questions about joining and being a member of CSA. It will also have a section about the benefits of being a member.
+![Membership Page Narrow Page 2](/design-plan/narrow_membership_final2.jpg)
+This page will have frequently asked questions about joining and being a member of CSA. When the user clicks on a question, the answer will pop up in a box. The questions will have an arrow on the left side to show users that it is clickable. It will also have a section about the benefits of being a member.
 
 Events Page Narrow
 ![Events Page Narrow](/design-plan/narrow_events_final.jpg)
@@ -488,7 +489,8 @@ In order to implement the "wide" design, the same code as the "narrow" design ca
 
 Membership Page Wide
 ![Membership Page Wide](/design-plan/wide_membership_final.jpg)
-This page answers commonly asked questions about joining a CSA membership. When the user clicks on a question, the answer will pop up.
+![Membership Page Wide Page 2](/design-plan/wide_membership_final2.jpg)
+This page answers commonly asked questions about joining a CSA membership. When the user clicks on a question, the answer will pop up in a box. The questions will have an arrow on the left side to show users that it is clickable.
 
 Events Page Wide
 ![Events Page Wide](/design-plan/wide_events_final.jpg)
