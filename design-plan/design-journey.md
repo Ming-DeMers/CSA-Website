@@ -689,11 +689,9 @@ Note: he wishes it displayed more upcoming events (though this is not feasible f
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-<<<<<<< HEAD
     The fifth user is a senior Information Science Student from Cornell University College of engreeing.
-=======
+
     The user is a Freshmen CS major in the College of Engineering. The user is from Long Island, New York. She loves dancing and is part of a Cornell dance team.
->>>>>>> bb15bfe47bbb4c51d3dbea732122b6671a710046
 
 
 2. Does the user belong to your audience of the site?
@@ -721,7 +719,9 @@ Notes: The user clicks the Events page to find information regarding the next up
 ## Website Revision Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
-TODO: explain the revisions to your website from user testing
+We improved visual design by removing certain boxes in other boxes, to simplify layout. We also attempted to fix the pop up so it would only show once, but using cookies with jquery is outside of the scope of this class and Ming couldn't figure it out :(. Compacted/added interactivity into the FAQ section to reduce clutter for the user.
+
+Otherwise, we left the design as is, as all users, and the milestone 2 grader, thought the design was intuitve and easy to use.
 
 
 ## Grading (Final Submission)
@@ -729,11 +729,11 @@ TODO: explain the revisions to your website from user testing
 ### Collaborators (Final Submission)
 > List any persons you collaborated with on this project.
 
-TODO: list your collaborators
+CSA Members: Arthur Sun, Tiffany Lee.
 
 
 ### Reference Resources (Final Submission)
 > Please cite any external resources you referenced in the creation of your project.
 > (i.e. W3Schools, StackOverflow, Mozilla, etc.)
 
-TODO: list reference resources
+W3Schools, StackOverflow, Mozilla.
