@@ -325,3 +325,13 @@ ul.membership {
   margin-left: 1%;
   margin-right: 1%;
 }
+
+#faqs button {
+  background-color: #ffffff;
+}
+
+#faqs button{
+  color: black;
+  font-size: 13px;
+  font-weight:bolder;
+}
