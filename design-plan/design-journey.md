@@ -571,11 +571,9 @@ Notes: The event notification modal is a nice touch to ensure every visitor to t
 
 1. You are a student that wants to join CSA and would like to find out if there are fees associated with joining. Find this information.
 
-2. After attending a social event for CSA, you are curious to learn more about the E.board members, specifically Ben Wang. Find out this information.
+2. After attending a sodial event for CSA, you are curious to learn more about the eboard members, specifically Ben Wang. Find out this information.
 
 3. You are a new member of CSA and you are ecstatic to go to the next upcoming event. Find out what this event is and when it is.
-
-TODO: add more tasks if necessary (a good rule of thumb is a task for every user goal)
 
 
 ### Participant 1 (Final Submission)
@@ -672,23 +670,34 @@ TODO: add more participants if necessary
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
+<<<<<<< HEAD
     The fifth user is a senior Information Science Student from Cornell University College of engreeing.
+=======
+    The user is a Freshmen CS major in the College of Engineering. The user is from Long Island, New York. She loves dancing and is part of a Cornell dance team.
+>>>>>>> bb15bfe47bbb4c51d3dbea732122b6671a710046
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    Yes
 
 
 ### Participant 5 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+1. You are a student that wants to join CSA and would like to find out if there are fees associated with joining. Find this information.
 
+Notes: User quickly navigates to the membership page and finds the FAQ section. They click onto the question "How do I become a member of CSA?" and find that there are two membership types, per year which costs $15 for new members and $10 for returning, and lifetime which costs $30.
 
-TODO: add more participants if necessary
+2. After attending a social event for CSA, you are curious to learn more about the E.board members, specifically Ben Wang. Find out this information.
+
+Notes: The user navigates to the About page and scrolls down to the EBoard section of the page. User takes a moment before clicking on the image of Ben Wang, perhaps it was not intuitive that the images could be clicked for further information.
+
+3. You are a new member of CSA and you are ecstatic to go to the next upcoming event. Find out what this event is and when it is.
+
+Notes: The user clicks the Events page to find information regarding the next upcoming event. User correctly identifies Midngiht DimSum as the next CSA event which will occur November 19th, 6-10PM in Duffield Hall.
 
 ## Website Revision Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
