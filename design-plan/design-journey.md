@@ -602,14 +602,14 @@ TODO: participant user test notes
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
+
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+
 
 
 ### Participant 2 -- Testing Notes (Final Submission)
@@ -654,24 +654,36 @@ User goes to Events page and quickly finds the upcoming events. No other comment
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
+    The user is a current sophomore majoring in biological sciences. The user is from Arizona and he works at the service center. He is very dedicated and passionate about becoming a doctor and hopes to ultimately become a cardiovascular surgeon.
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    The user is not a part of the intended audience as he is already a member of CSA. However, our website is able to fulfill the needs of current CSA members as there is content relavent to both prospective and currrent members; there is information regarding ways to rent out certain kits through the club along with upcoming events.
 
 
 ### Participant 4 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+1. You are a student that wants to join CSA and would like to find out if there are fees associated with joining. Find this information.
 
+The student saw the modal first and found it to be informative as it told him about the details of the upcoming CSA event that he had not known about before. After clicking off, he sees the navigation bar and is hovered over "about," but realizes that the information is likely under membership. He scrolls down and ends up finding the section about dues.
 
-TODO: add more participants if necessary
+Note: he notes that there is a lot of information and it was slightly hard to find.
 
+2. After attending a sodial event for CSA, you are curious to learn more about the eboard members, specifically Ben Wang. Find out this information.
+
+Seeing that the homepage contains brief information, he goes to the about page next, scrolling down just a bit, he finds the "our eboard" heading and continues to scroll until he finds Ben Wang. At first glance, it did not seem that this part provided any information, but after hovering his mouse over the panels, he notices that the cursor changed and therefore got the hint that the panel is interactive. He clicks on Ben's panel.
+
+Note: he thought the interactivity was cool.
+
+3. You are a new member of CSA and you are ecstatic to go to the next upcoming event. Find out what this event is and when it is.
+
+The user finds the information provided by the modal to be very informative for this task. He then sees the "events" page on the nav bar and clicks on it to find out more about events. He goes on it and finds out more about the upcoming event.
+
+Note: he wishes it displayed more upcoming events (though this is not feasible for us, as the CSA eboard does not plan events this far in advnace).
 
 ### Participant 5 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
