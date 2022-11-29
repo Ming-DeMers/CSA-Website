@@ -147,6 +147,12 @@ img {
   line-height: 1.5;
 }
 
+.benefit li {
+  list-style: none;
+  margin-left: 15px;
+  line-height: 1.5;
+}
+
 /* picture gallery */
 .picture-galley {
   display: flex;
