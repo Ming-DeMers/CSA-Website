@@ -678,7 +678,11 @@ TODO: add more participants if necessary
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
+<<<<<<< HEAD
+    The fifth user is a senior Information Science Student from Cornell University College of engreeing.
+=======
     The user is a Freshmen CS major in the College of Engineering. The user is from Long Island, New York. She loves dancing and is part of a Cornell dance team.
+>>>>>>> bb15bfe47bbb4c51d3dbea732122b6671a710046
 
 
 2. Does the user belong to your audience of the site?
