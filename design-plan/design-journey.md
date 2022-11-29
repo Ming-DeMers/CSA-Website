@@ -581,20 +581,20 @@ Notes: The event notification modal is a nice touch to ensure every visitor to t
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
+    The user is a senior at Cornell University, studying computer science. He is from San Jose, California. He is interested in joining CSA and wants to learn more about the club.
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    Yes
 
 
 ### Participant 1 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+The user quickly found that the membership fee is $15 a year for new members. He went to the "Membership" page on the navigation bar and found it under "How do I become a member of CSA?". For the second task, the user went to the "About" page. From there, he clicked on "Ben Wang" and found out that he is from Upstate NY and is involved in pre-professional health clubs on campus. He mentioned that because the cards had shadows and the images turned slightly white when hovered over, it provided good affordance that it was clickable. For the last task, the user easily found the information from a pop-up on the homepage. It is a "Midnight Dim Sum" event on November 19 from 6pm to 10pm at Duffield Hall. He also found the information when he clicked on the "Events" page and it was under the "Upcoming Events" subtitle.
 
 
 ### Participant 2 (Final Submission)
@@ -710,18 +710,19 @@ Notes: The user clicks the Events page to find information regarding the next up
 ## Website Revision Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
-We improved visual design by removing certain boxes in other boxes, to simplify layout. We also attempted to fix the pop up so it would only show once, but using cookies with jquery is outside of the scope of this class and Ming couldn't figure it out :(.
+TODO: explain the revisions to your website from user testing
 
-Otherwise, we left the design as is, as all users, and the milestone 2 grader, thought the design was intuitve and easy to use.
+
 ## Grading (Final Submission)
 
 ### Collaborators (Final Submission)
 > List any persons you collaborated with on this project.
 
-CSA Members: Arthur Sun, Tiffany Lee.
+TODO: list your collaborators
+
 
 ### Reference Resources (Final Submission)
 > Please cite any external resources you referenced in the creation of your project.
 > (i.e. W3Schools, StackOverflow, Mozilla, etc.)
 
-W3Schools, StackOverflow, Mozilla.
+TODO: list reference resources
