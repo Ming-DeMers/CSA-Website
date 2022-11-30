@@ -603,7 +603,7 @@ The user quickly found that the membership fee is $15 a year for new members. He
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-
+The second participant was a senior, an information science student from the Cornell College of Engineering. He is from Shenzhen, China and enjoys reading, jazz and anime.
 
 
 2. Does the user belong to your audience of the site?
@@ -611,12 +611,23 @@ The user quickly found that the membership fee is $15 a year for new members. He
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
 
-
+Yes
 
 ### Participant 2 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+1. You are a student that wants to join CSA and would like to find out if there are fees associated with joining. Find this information.
+
+The user first navigates through the about screen, but in this screen it does not find any information about the fee. It then clicks on the membership page, where it finds a message on how to pay. He thinks the fees and methods of payment can be highlighted.
+
+
+2. After attending a sodial event for CSA, you are curious to learn more about the eboard members, specifically Ben Wang. Find out this information.
+
+The user returns to the about page because he just found information about the e-broad members on this page. He found Ben Wang and clicked on his member card to get more information. He said he really liked the flip card design.
+
+3. You are a new member of CSA and you are ecstatic to go to the next upcoming event. Find out what this event is and when it is.
+
+The user navigates to the events page, where he slides the mouse down to find upcoming events. He pointed out that he was ecstatic about the upcoming Dim Sun night.
 
 
 ### Participant 3 (Final Submission)
