@@ -518,7 +518,7 @@ The design is appropriate for our audience because it utilizes colors significan
 
 There will be two interactivity elements; the modal and the flip. The purpose of our proposed interactivity, starting with the modal, is that it will allow viewers to see what the next upcoming event is. It will pop up on the home screen, and users are able to dismiss it after viewing the information. The second element is the flip in which users will be able to click on a picture of e-board and a blurb about them will be shown. This will enhance the audience's experience because it will give them more information as to who the people who run the are. These interactivity elements address the goals as they provide more information that they would most likely want to learn when viewing the CSA website but in a less congested way as they do not take up more page space.
 
-
+Added: we also added an accordian interactiivty for the FAQ page; the purpose of this is to declutter the large amount of content that is presented on the FAQ page.
 ## Interactivity Plan (Milestone 2)
 > Now that you've designed your interactivity for your site, you need to plan how you will implement it.
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
