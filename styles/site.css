@@ -87,7 +87,7 @@ img {
 
 .menubar a:link {
   text-decoration: none;
-  font-size: larger;
+  font-size: 16px;
   color: #ffffff;
   background-color: #db413b;
   display: inline;
@@ -179,7 +179,7 @@ img {
 }
 
 .blurb img {
-  width: 100px;
+  width: 150px;
   margin: 20px;
 }
 
@@ -295,6 +295,10 @@ ul.membership {
     justify-content: center;
   }
 
+  .menubar a:link {
+    font-size: 20px;
+  }
+
   .blurb {
     display: flex;
     flex-direction: column;
@@ -308,6 +312,7 @@ ul.membership {
 
   .blurb img {
     margin: 20px;
+    width: 200px;
   }
 
   .popup {
