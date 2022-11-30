@@ -318,6 +318,11 @@ ul.membership {
   .popup {
     left: 35%;
     right: 35%;
+    bottom: 22.5%
+  }
+  .popup img {
+    width:65%;
+    height:65%;
   }
 
   #faqs button{
